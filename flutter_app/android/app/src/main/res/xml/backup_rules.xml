@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Incluir base de datos -->
+    <include domain="database" path="searchobject.db"/>
+    <include domain="database" path="searchobject.db-wal"/>
+    <include domain="database" path="searchobject.db-shm"/>
+
+    <!-- Incluir imágenes y archivos internos -->
+    <include domain="file" path="images/"/>
+    <include domain="file" path="."/>
+</full-backup-content>

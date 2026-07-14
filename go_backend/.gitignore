@@ -1,0 +1,16 @@
+# Binaries
+server
+testcli
+
+# Java/Android artifacts
+*.jar
+*.aar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

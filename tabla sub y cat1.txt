@@ -1,0 +1,3124 @@
+ID;Categoría;Subcategoría;Objeto
+1;Herramientas;Martillos;Martillo de carpintero
+2;Herramientas;Martillos;Martillo de bola
+3;Herramientas;Martillos;Martillo de goma
+4;Herramientas;Martillos;Martillo de encofrador
+5;Herramientas;Martillos;Martillo demoledor
+6;Herramientas;Martillos;Martillo de tapicero
+7;Herramientas;Martillos;Martillo de albañil
+8;Herramientas;Martillos;Mazo de madera
+9;Herramientas;Martillos;Mazo de goma
+10;Herramientas;Martillos;Mazo de nylon
+11;Herramientas;Martillos;Martillo antivibración
+12;Herramientas;Martillos;Martillo de precisión
+13;Herramientas;Martillos;Martillo de chapista
+14;Herramientas;Martillos;Martillo de geólogo
+15;Herramientas;Martillos;Martillo rompevidrios
+16;Herramientas;Martillos;Martillo de doble cara
+17;Herramientas;Martillos;Martillo mini
+18;Herramientas;Martillos;Martillo de soldador
+19;Herramientas;Martillos;Martillo de electricista
+20;Herramientas;Martillos;Martillo para adoquines
+21;Herramientas;Martillos;Martillo de uña
+22;Herramientas;Martillos;Martillo industrial
+23;Herramientas;Martillos;Martillo pesado
+24;Herramientas;Martillos;Martillo ligero
+25;Herramientas;Martillos;Martillo de acero
+ID;Categoría;Subcategoría;Objeto
+26;Herramientas;Destornilladores;Destornillador plano 3 mm
+27;Herramientas;Destornilladores;Destornillador plano 5 mm
+28;Herramientas;Destornilladores;Destornillador plano 6 mm
+29;Herramientas;Destornilladores;Destornillador plano 8 mm
+30;Herramientas;Destornilladores;Destornillador Phillips PH0
+31;Herramientas;Destornilladores;Destornillador Phillips PH1
+32;Herramientas;Destornilladores;Destornillador Phillips PH2
+33;Herramientas;Destornilladores;Destornillador Phillips PH3
+34;Herramientas;Destornilladores;Destornillador Torx T10
+35;Herramientas;Destornilladores;Destornillador Torx T15
+36;Herramientas;Destornilladores;Destornillador Torx T20
+37;Herramientas;Destornilladores;Destornillador Torx T25
+38;Herramientas;Destornilladores;Destornillador Torx T30
+39;Herramientas;Destornilladores;Destornillador Pozidriv PZ1
+40;Herramientas;Destornilladores;Destornillador Pozidriv PZ2
+41;Herramientas;Destornilladores;Destornillador Pozidriv PZ3
+42;Herramientas;Destornilladores;Destornillador hexagonal
+43;Herramientas;Destornilladores;Destornillador cuadrado
+44;Herramientas;Destornilladores;Destornillador de precisión
+45;Herramientas;Destornilladores;Destornillador eléctrico
+46;Herramientas;Destornilladores;Destornillador aislado
+47;Herramientas;Destornilladores;Destornillador buscapolos
+48;Herramientas;Destornilladores;Juego de destornilladores
+49;Herramientas;Destornilladores;Destornillador corto
+50;Herramientas;Destornilladores;Destornillador largo
+;;;
+ID;Categoría;Subcategoría;Objeto
+71;Herramientas;Llaves;Llave inglesa
+72;Herramientas;Llaves;Llave ajustable
+73;Herramientas;Llaves;Llave Allen
+74;Herramientas;Llaves;Llave de tubo
+75;Herramientas;Llaves;Llave de cruz
+76;Herramientas;Llaves;Llave de impacto
+77;Herramientas;Llaves;Llave de rueda
+78;Herramientas;Llaves;Llave combinada
+79;Herramientas;Llaves;Llave fija 8 mm
+80;Herramientas;Llaves;Llave fija 10 mm
+81;Herramientas;Llaves;Llave fija 12 mm
+82;Herramientas;Llaves;Llave fija 14 mm
+83;Herramientas;Llaves;Llave fija 17 mm
+84;Herramientas;Llaves;Llave fija 19 mm
+85;Herramientas;Llaves;Llave dinamométrica
+86;Herramientas;Llaves;Llave para filtro de aceite
+87;Herramientas;Llaves;Llave de cadena
+88;Herramientas;Llaves;Llave Stillson
+89;Herramientas;Llaves;Llave grifa
+90;Herramientas;Llaves;Llave de correa
+91;Herramientas;Llaves;Llave hexagonal larga
+92;Herramientas;Llaves;Llave hexagonal corta
+93;Herramientas;Llaves;Llave de vaso
+94;Herramientas;Llaves;Juego de llaves
+95;Herramientas;Llaves;Llave universal
+;;;
+ID;Categoría;Subcategoría;Objeto
+96;Herramientas;Alicates;Alicate universal
+97;Herramientas;Alicates;Alicate de corte
+98;Herramientas;Alicates;Alicate de punta
+99;Herramientas;Alicates;Alicate de presión
+100;Herramientas;Alicates;Alicate de electricista
+101;Herramientas;Alicates;Alicate pelacables
+102;Herramientas;Alicates;Alicate de crimpar
+103;Herramientas;Alicates;Alicate de punta curva
+104;Herramientas;Alicates;Alicate de punta recta
+105;Herramientas;Alicates;Alicate mini
+106;Herramientas;Alicates;Alicate grande industrial
+107;Herramientas;Alicates;Alicate de agarre
+108;Herramientas;Alicates;Alicate de cadena
+109;Herramientas;Alicates;Alicate para anillos
+110;Herramientas;Alicates;Alicate para seguros
+111;Herramientas;Alicates;Alicate de bloqueo
+112;Herramientas;Alicates;Alicate de punta larga
+113;Herramientas;Alicates;Alicate de precisión
+114;Herramientas;Alicates;Alicate aislado
+115;Herramientas;Alicates;Alicate de corte diagonal
+116;Herramientas;Alicates;Alicate de punta fina
+117;Herramientas;Alicates;Alicate tipo perro
+118;Herramientas;Alicates;Alicate de joyero
+119;Herramientas;Alicates;Alicate multifunción
+120;Herramientas;Alicates;Set de alicates
+;;;
+ID;Categoría;Subcategoría;Objeto
+146;Herramientas;Sierras;Serrucho carpintero
+147;Herramientas;Sierras;Serrucho japonés
+148;Herramientas;Sierras;Serrucho de costilla
+149;Herramientas;Sierras;Sierra de arco
+150;Herramientas;Sierras;Sierra caladora manual
+151;Herramientas;Sierras;Sierra circular manual
+152;Herramientas;Sierras;Sierra sable
+153;Herramientas;Sierras;Sierra eléctrica
+154;Herramientas;Sierras;Sierra de mesa
+155;Herramientas;Sierras;Sierra ingletadora
+156;Herramientas;Sierras;Mini sierra
+157;Herramientas;Sierras;Sierra de precisión
+158;Herramientas;Sierras;Sierra para metal
+159;Herramientas;Sierras;Sierra para madera
+160;Herramientas;Sierras;Sierra para PVC
+161;Herramientas;Sierras;Sierra diamantada
+162;Herramientas;Sierras;Disco de corte
+163;Herramientas;Sierras;Disco para madera
+164;Herramientas;Sierras;Disco para metal
+165;Herramientas;Sierras;Disco para concreto
+166;Herramientas;Sierras;Hoja de sierra
+167;Herramientas;Sierras;Hoja de repuesto
+168;Herramientas;Sierras;Sierra de mano
+169;Herramientas;Sierras;Sierra telescópica
+170;Herramientas;Sierras;Set de sierras
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+196;Herramientas;Limas;Lima plana
+197;Herramientas;Limas;Lima redonda
+198;Herramientas;Limas;Lima triangular
+199;Herramientas;Limas;Lima media caña
+200;Herramientas;Limas;Lima fina
+201;Herramientas;Limas;Lima gruesa
+202;Herramientas;Limas;Lima de precisión
+203;Herramientas;Limas;Lima para metal
+204;Herramientas;Limas;Lima para madera
+205;Herramientas;Limas;Lima diamantada
+206;Herramientas;Limas;Lima de aguja
+207;Herramientas;Limas;Lima pequeña
+208;Herramientas;Limas;Lima grande
+209;Herramientas;Limas;Set de limas
+210;Herramientas;Limas;Lima eléctrica
+211;Herramientas;Limas;Lima curva
+212;Herramientas;Limas;Lima recta
+213;Herramientas;Limas;Lima de desbaste
+214;Herramientas;Limas;Lima de acabado
+215;Herramientas;Limas;Lima industrial
+;;;
+ID;Categoría;Subcategoría;Objeto
+236;Herramientas;Medición;Flexómetro 3m
+237;Herramientas;Medición;Flexómetro 5m
+238;Herramientas;Medición;Flexómetro 8m
+239;Herramientas;Medición;Flexómetro 10m
+240;Herramientas;Medición;Huincha metálica
+241;Herramientas;Medición;Regla metálica
+242;Herramientas;Medición;Regla de madera
+243;Herramientas;Medición;Escuadra
+244;Herramientas;Medición;Escuadra combinada
+245;Herramientas;Medición;Escuadra falsa
+246;Herramientas;Medición;Nivel de burbuja
+247;Herramientas;Medición;Nivel láser
+248;Herramientas;Medición;Nivel digital
+249;Herramientas;Medición;Cinta métrica
+250;Herramientas;Medición;Metro plegable
+251;Herramientas;Medición;Calibrador Vernier
+252;Herramientas;Medición;Micrómetro
+253;Herramientas;Medición;Transportador
+254;Herramientas;Medición;Compás
+255;Herramientas;Medición;Medidor láser
+256;Herramientas;Medición;Detector de distancia
+257;Herramientas;Medición;Medidor de humedad
+258;Herramientas;Medición;Medidor eléctrico
+259;Herramientas;Medición;Multímetro
+260;Herramientas;Medición;Tester
+;;;
+ID;Categoría;Subcategoría;Objeto
+261;Herramientas;Corte;Cutter
+262;Herramientas;Corte;Cuchillo utilitario
+263;Herramientas;Corte;Navaja multiuso
+264;Herramientas;Corte;Tijeras industriales
+265;Herramientas;Corte;Tijeras de metal
+266;Herramientas;Corte;Tijeras de precisión
+267;Herramientas;Corte;Tijeras eléctricas
+268;Herramientas;Corte;Cizalla manual
+269;Herramientas;Corte;Cizalla para metal
+270;Herramientas;Corte;Guillotina de corte
+271;Herramientas;Corte;Cortatubos PVC
+272;Herramientas;Corte;Cortatubos cobre
+273;Herramientas;Corte;Cortacables
+274;Herramientas;Corte;Tijera de podar
+275;Herramientas;Corte;Sierra de mano
+276;Herramientas;Corte;Sierra de arco
+277;Herramientas;Corte;Sierra eléctrica
+278;Herramientas;Corte;Disco de corte metal
+279;Herramientas;Corte;Disco de corte madera
+280;Herramientas;Corte;Disco diamantado
+281;Herramientas;Corte;Hoja de cutter
+282;Herramientas;Corte;Hoja de sierra
+283;Herramientas;Corte;Tijera universal
+284;Herramientas;Corte;Cortavidrios
+285;Herramientas;Corte;Cortadora rotativa
+286;Herramientas;Corte;Sierra caladora
+287;Herramientas;Corte;Sierra sable
+288;Herramientas;Corte;Amoladora
+289;Herramientas;Corte;Esmeril angular
+290;Herramientas;Corte;Mini amoladora
+291;Herramientas;Corte;Disco para aluminio
+292;Herramientas;Corte;Disco para acero
+293;Herramientas;Corte;Disco para concreto
+294;Herramientas;Corte;Cortador de espuma
+295;Herramientas;Corte;Cortador de cartón
+296;Herramientas;Corte;Cortador de cables gruesos
+297;Herramientas;Corte;Cortador de varilla
+298;Herramientas;Corte;Tijera de hojalatero
+299;Herramientas;Corte;Sierra ingletadora
+300;Herramientas;Corte;Sierra de mesa
+301;Herramientas;Corte;Sierra circular
+302;Herramientas;Corte;Sierra de calar
+303;Herramientas;Corte;Cortador manual
+304;Herramientas;Corte;Cortador industrial
+305;Herramientas;Corte;Cortador de plástico
+306;Herramientas;Corte;Cortador de madera
+307;Herramientas;Corte;Cortador de metal
+308;Herramientas;Corte;Cortador de cerámica
+309;Herramientas;Corte;Cortador de azulejos
+310;Herramientas;Corte;Tijera de jardín
+311;Herramientas;Corte;Podadora manual
+312;Herramientas;Corte;Podadora eléctrica
+313;Herramientas;Corte;Podadora telescópica
+314;Herramientas;Corte;Sierra de pértiga
+315;Herramientas;Corte;Mini cutter
+316;Herramientas;Corte;Cutter profesional
+317;Herramientas;Corte;Cuchilla industrial
+318;Herramientas;Corte;Cortador de alfombra
+319;Herramientas;Corte;Cortador de cuero
+320;Herramientas;Corte;Cortador de malla metálica
+;;;
+ID;Categoría;Subcategoría;Objeto
+321;Herramientas;Prensas;Prensa de banco
+322;Herramientas;Prensas;Sargento
+323;Herramientas;Prensas;Sargento rápido
+324;Herramientas;Prensas;Prensa tipo C
+325;Herramientas;Prensas;Prensa tipo F
+326;Herramientas;Prensas;Prensa de tornillo
+327;Herramientas;Prensas;Prensa hidráulica
+328;Herramientas;Prensas;Prensa manual
+329;Herramientas;Prensas;Prensa de carpintero
+330;Herramientas;Prensas;Prensa de metal
+331;Herramientas;Prensas;Prensa de soldadura
+332;Herramientas;Prensas;Prensa de banco pequeña
+333;Herramientas;Prensas;Prensa de banco grande
+334;Herramientas;Prensas;Mordaza
+335;Herramientas;Prensas;Mordaza giratoria
+336;Herramientas;Prensas;Tornillo de banco
+337;Herramientas;Prensas;Prensa ajustable
+338;Herramientas;Prensas;Prensa fija
+339;Herramientas;Prensas;Prensa industrial
+340;Herramientas;Prensas;Prensa de precisión
+341;Herramientas;Prensas;Abrazadera metálica
+342;Herramientas;Prensas;Abrazadera de plástico
+343;Herramientas;Prensas;Abrazadera de resorte
+344;Herramientas;Prensas;Abrazadera tipo C
+345;Herramientas;Prensas;Abrazadera tipo F
+346;Herramientas;Prensas;Prensa de mesa
+347;Herramientas;Prensas;Prensa portátil
+348;Herramientas;Prensas;Prensa de taller
+349;Herramientas;Prensas;Prensa para tubos
+350;Herramientas;Prensas;Prensa para madera
+351;Herramientas;Prensas;Prensa para metal
+352;Herramientas;Prensas;Prensa angular
+353;Herramientas;Prensas;Prensa de esquina
+354;Herramientas;Prensas;Prensa de ajuste rápido
+355;Herramientas;Prensas;Prensa de precisión fina
+356;Herramientas;Prensas;Juego de prensas
+357;Herramientas;Prensas;Mini prensa
+358;Herramientas;Prensas;Prensa pesada
+359;Herramientas;Prensas;Prensa ligera
+360;Herramientas;Prensas;Prensa universal
+361;Herramientas;Prensas;Prensa de sujeción
+362;Herramientas;Prensas;Prensa de presión
+363;Herramientas;Prensas;Prensa de carpintería
+364;Herramientas;Prensas;Prensa de taller profesional
+365;Herramientas;Prensas;Prensa mecánica
+366;Herramientas;Prensas;Prensa manual pequeña
+367;Herramientas;Prensas;Prensa de ajuste fino
+368;Herramientas;Prensas;Prensa de soporte
+369;Herramientas;Prensas;Prensa de mesa giratoria
+370;Herramientas;Prensas;Prensa reforzada
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+371;Herramientas;Accesorios;Brocas para metal
+372;Herramientas;Accesorios;Brocas para madera
+373;Herramientas;Accesorios;Brocas para concreto
+374;Herramientas;Accesorios;Set de brocas
+375;Herramientas;Accesorios;Discos de corte
+376;Herramientas;Accesorios;Discos de lijado
+377;Herramientas;Accesorios;Lijas finas
+378;Herramientas;Accesorios;Lijas gruesas
+379;Herramientas;Accesorios;Tornillos variados
+380;Herramientas;Accesorios;Tuercas variadas
+381;Herramientas;Accesorios;Golillas
+382;Herramientas;Accesorios;Pernos
+383;Herramientas;Accesorios;Tarugos
+384;Herramientas;Accesorios;Remaches
+385;Herramientas;Accesorios;Clavos
+386;Herramientas;Accesorios;Cinta aislante
+387;Herramientas;Accesorios;Cinta americana
+388;Herramientas;Accesorios;Pegamento epóxico
+389;Herramientas;Accesorios;Silicona
+390;Herramientas;Accesorios;Aceite lubricante
+391;Herramientas;Accesorios;Grasa industrial
+392;Herramientas;Accesorios;Spray desoxidante
+393;Herramientas;Accesorios;Limpiador de herramientas
+394;Herramientas;Accesorios;Cepillo metálico
+395;Herramientas;Accesorios;Cepillo plástico
+396;Herramientas;Accesorios;Adaptadores
+397;Herramientas;Accesorios;Conectores
+398;Herramientas;Accesorios;Extensiones eléctricas
+399;Herramientas;Accesorios;Enchufes múltiples
+400;Herramientas;Accesorios;Filtros
+401;Herramientas;Accesorios;Correas
+402;Herramientas;Accesorios;Cuerdas
+403;Herramientas;Accesorios;Cables de acero
+404;Herramientas;Accesorios;Ganchos
+405;Herramientas;Accesorios;Mosquetones
+406;Herramientas;Accesorios;Tornillos autorroscantes
+407;Herramientas;Accesorios;Tornillos de madera
+408;Herramientas;Accesorios;Tornillos de metal
+409;Herramientas;Accesorios;Juego de llaves Allen
+410;Herramientas;Accesorios;Juego de destornilladores
+411;Herramientas;Accesorios;Cinta métrica
+412;Herramientas;Accesorios;Nivel láser
+413;Herramientas;Accesorios;Detector de metales
+414;Herramientas;Accesorios;Multímetro
+415;Herramientas;Accesorios;Tester eléctrico
+416;Herramientas;Accesorios;Guantes de trabajo
+417;Herramientas;Accesorios;Lentes de seguridad
+418;Herramientas;Accesorios;Casco de seguridad
+419;Herramientas;Accesorios;Mascarilla
+420;Herramientas;Accesorios;Tapones auditivos
+421;Herramientas;Accesorios;Maletín de herramientas
+422;Herramientas;Accesorios;Caja de herramientas
+423;Herramientas;Accesorios;Organizadores
+424;Herramientas;Accesorios;Bandejas
+425;Herramientas;Accesorios;Separadores
+426;Herramientas;Accesorios;Etiquetas
+427;Herramientas;Accesorios;Marcadores
+428;Herramientas;Accesorios;Pintura en spray
+429;Herramientas;Accesorios;Brochas
+430;Herramientas;Accesorios;Rodillos
+431;Herramientas;Accesorios;Espátulas
+432;Herramientas;Accesorios;Lijas diamantadas
+433;Herramientas;Accesorios;Discos diamantados
+434;Herramientas;Accesorios;Fresas
+435;Herramientas;Accesorios;Puntas de atornillador
+436;Herramientas;Accesorios;Puntas Torx
+437;Herramientas;Accesorios;Puntas Phillips
+438;Herramientas;Accesorios;Puntas planas
+439;Herramientas;Accesorios;Cargadores de batería
+440;Herramientas;Accesorios;Baterías recargables
+441;Herramientas;Accesorios;Pilas AA
+442;Herramientas;Accesorios;Pilas AAA
+443;Herramientas;Accesorios;Fusibles
+444;Herramientas;Accesorios;Relés
+445;Herramientas;Accesorios;Interruptores
+446;Herramientas;Accesorios;Sensores
+447;Herramientas;Accesorios;Tornillos especiales
+448;Herramientas;Accesorios;Kit reparación
+449;Herramientas;Accesorios;Kit eléctrico
+450;Herramientas;Accesorios;Kit mecánico
+451;Herramientas;Accesorios;Aceite penetrante
+452;Herramientas;Accesorios;Lubricante en aerosol
+453;Herramientas;Accesorios;Pasta térmica
+454;Herramientas;Accesorios;Cinta térmica
+455;Herramientas;Accesorios;Sellador
+456;Herramientas;Accesorios;Pegamento instantáneo
+457;Herramientas;Accesorios;Pegamento madera
+458;Herramientas;Accesorios;Pegamento metal
+459;Herramientas;Accesorios;Tornillos inoxidables
+460;Herramientas;Accesorios;Tornillos galvanizados
+461;Herramientas;Accesorios;Tuercas inoxidables
+462;Herramientas;Accesorios;Golillas planas
+463;Herramientas;Accesorios;Golillas de presión
+464;Herramientas;Accesorios;Arandelas
+465;Herramientas;Accesorios;Clips
+466;Herramientas;Accesorios;Abrazaderas
+467;Herramientas;Accesorios;Resortes
+468;Herramientas;Accesorios;Ejes
+469;Herramientas;Accesorios;Rodamientos
+470;Herramientas;Accesorios;Cojinetes
+471;Herramientas;Accesorios;Poleas
+472;Herramientas;Accesorios;Correas dentadas
+473;Herramientas;Accesorios;Engranajes
+474;Herramientas;Accesorios;Cadenas metálicas
+475;Herramientas;Accesorios;Tornillos de banco repuesto
+476;Herramientas;Accesorios;Mordazas
+477;Herramientas;Accesorios;Bases magnéticas
+478;Herramientas;Accesorios;Imán
+479;Herramientas;Accesorios;Detectores eléctricos
+480;Herramientas;Accesorios;Cables flexibles
+481;Herramientas;Accesorios;Conectores rápidos
+482;Herramientas;Accesorios;Terminales eléctricos
+483;Herramientas;Accesorios;Conectores de red
+484;Herramientas;Accesorios;RJ45
+485;Herramientas;Accesorios;RJ11
+486;Herramientas;Accesorios;Adaptadores USB
+487;Herramientas;Accesorios;Adaptadores HDMI
+488;Herramientas;Accesorios;Adaptadores VGA
+489;Herramientas;Accesorios;Convertidores
+490;Herramientas;Accesorios;Cintas de embalaje
+491;Herramientas;Accesorios;Plásticos protectores
+492;Herramientas;Accesorios;Fundas
+493;Herramientas;Accesorios;Bolsas de herramientas
+494;Herramientas;Accesorios;Mochilas de herramientas
+495;Herramientas;Accesorios;Estuches
+496;Herramientas;Accesorios;Organizadores plásticos
+497;Herramientas;Accesorios;Separadores de cajón
+498;Herramientas;Accesorios;Etiquetas adhesivas
+499;Herramientas;Accesorios;Marcadores permanentes
+500;Herramientas;Accesorios;Rotuladores industriales
+501;Herramientas;Accesorios;Spray lubricante
+502;Herramientas;Accesorios;Spray pintura
+503;Herramientas;Accesorios;Spray limpieza
+504;Herramientas;Accesorios;Desengrasante
+505;Herramientas;Accesorios;Removedor óxido
+506;Herramientas;Accesorios;Cepillo de alambre
+507;Herramientas;Accesorios;Esponja abrasiva
+508;Herramientas;Accesorios;Tela abrasiva
+509;Herramientas;Accesorios;Disco flap
+510;Herramientas;Accesorios;Disco pulidor
+511;Herramientas;Accesorios;Pasta pulidora
+512;Herramientas;Accesorios;Lija al agua
+513;Herramientas;Accesorios;Lija seca
+514;Herramientas;Accesorios;Cinta doble contacto
+515;Herramientas;Accesorios;Cinta aislante alta tensión
+516;Herramientas;Accesorios;Cinta selladora
+517;Herramientas;Accesorios;Cinta aluminio
+518;Herramientas;Accesorios;Cinta cobre
+519;Herramientas;Accesorios;Cinta reforzada
+520;Herramientas;Accesorios;Cinta de espuma
+521;Herramientas;Accesorios;Pegamento epoxy rápido
+522;Herramientas;Accesorios;Pegamento industrial
+523;Herramientas;Accesorios;Silicona transparente
+524;Herramientas;Accesorios;Silicona negra
+525;Herramientas;Accesorios;Sellador acrílico
+526;Herramientas;Accesorios;Sellador poliuretano
+527;Herramientas;Accesorios;Tornillos drywall
+528;Herramientas;Accesorios;Tornillos autoperforantes
+529;Herramientas;Accesorios;Tornillos madera fina
+530;Herramientas;Accesorios;Tornillos cabeza plana
+531;Herramientas;Accesorios;Tornillos cabeza redonda
+532;Herramientas;Accesorios;Tornillos hexagonales
+533;Herramientas;Accesorios;Tuercas autoblocantes
+534;Herramientas;Accesorios;Tuercas mariposa
+535;Herramientas;Accesorios;Golillas dentadas
+536;Herramientas;Accesorios;Golillas seguridad
+537;Herramientas;Accesorios;Pernos carrocería
+538;Herramientas;Accesorios;Pernos cabeza hexagonal
+539;Herramientas;Accesorios;Pernos acero inoxidable
+540;Herramientas;Accesorios;Pernos galvanizados
+541;Herramientas;Accesorios;Llaves Allen juego
+542;Herramientas;Accesorios;Destornillador eléctrico bits
+543;Herramientas;Accesorios;Bits Phillips
+544;Herramientas;Accesorios;Bits Torx
+545;Herramientas;Accesorios;Bits planos
+546;Herramientas;Accesorios;Adaptador brocas
+547;Herramientas;Accesorios;Mandril taladro
+548;Herramientas;Accesorios;Portabrocas
+549;Herramientas;Accesorios;Llaves impacto sockets
+550;Herramientas;Accesorios;Juego sockets métricos
+551;Herramientas;Accesorios;Juego sockets pulgadas
+552;Herramientas;Accesorios;Extensiones sockets
+553;Herramientas;Accesorios;Rótulas
+554;Herramientas;Accesorios;Cardanes
+555;Herramientas;Accesorios;Adaptadores eléctricos
+556;Herramientas;Accesorios;Conectores rápidos agua
+557;Herramientas;Accesorios;Válvulas pequeñas
+558;Herramientas;Accesorios;Reguladores
+559;Herramientas;Accesorios;Sensores movimiento
+560;Herramientas;Accesorios;Sensores luz
+561;Herramientas;Accesorios;Temporizadores
+562;Herramientas;Accesorios;Relés automotrices
+563;Herramientas;Accesorios;Fusibles automotrices
+564;Herramientas;Accesorios;Cables batería
+565;Herramientas;Accesorios;Terminales batería
+566;Herramientas;Accesorios;Cinta aislante premium
+567;Herramientas;Accesorios;Conectores soldados
+568;Herramientas;Accesorios;Soldadura estaño
+569;Herramientas;Accesorios;Flux soldadura
+570;Herramientas;Accesorios;Pistola de silicona
+571;Herramientas;Accesorios;Barras silicona
+572;Herramientas;Accesorios;Cinta térmica alta temperatura
+573;Herramientas;Accesorios;Guantes nitrilo
+574;Herramientas;Accesorios;Guantes cuero
+575;Herramientas;Accesorios;Lentes protección UV
+576;Herramientas;Accesorios;Mascarilla industrial
+577;Herramientas;Accesorios;Arnés seguridad
+578;Herramientas;Accesorios;Cinturón herramientas
+579;Herramientas;Accesorios;Bolsa tornillos
+580;Herramientas;Accesorios;Caja organizadora piezas
+581;Herramientas;Accesorios;Etiquetas código QR
+582;Herramientas;Accesorios;Scanner QR
+583;Herramientas;Accesorios;App etiquetas
+584;Herramientas;Accesorios;Etiquetas resistentes agua
+585;Herramientas;Accesorios;Marcador tinta permanente
+586;Herramientas;Accesorios;Marcador industrial
+587;Herramientas;Accesorios;Spray marcaje
+588;Herramientas;Accesorios;Tiza industrial
+589;Herramientas;Accesorios;Cuerda nylon
+590;Herramientas;Accesorios;Cuerda acero
+591;Herramientas;Accesorios;Cadena seguridad
+592;Herramientas;Accesorios;Candado acero
+593;Herramientas;Accesorios;Candado combinación
+594;Herramientas;Accesorios;Mosquetón acero
+595;Herramientas;Accesorios;Polea manual
+596;Herramientas;Accesorios;Ganchos carga
+597;Herramientas;Accesorios;Tensores cable
+598;Herramientas;Accesorios;Anclajes pared
+599;Herramientas;Accesorios;Soportes metálicos
+600;Herramientas;Accesorios;Kit herramientas completo
+;;;
+;;;
+;ferreteria;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Ferretería;Tornillos;Tornillo madera 1 pulgada
+2;Ferretería;Tornillos;Tornillo madera 2 pulgadas
+3;Ferretería;Tornillos;Tornillo madera 3 pulgadas
+4;Ferretería;Tornillos;Tornillo metal 10mm
+5;Ferretería;Tornillos;Tornillo metal 20mm
+6;Ferretería;Tornillos;Tornillo autoperforante
+7;Ferretería;Tornillos;Tornillo drywall
+8;Ferretería;Tornillos;Tornillo cabeza plana
+9;Ferretería;Tornillos;Tornillo cabeza redonda
+10;Ferretería;Tornillos;Tornillo cabeza hexagonal
+11;Ferretería;Tornillos;Tornillo inoxidable
+12;Ferretería;Tornillos;Tornillo galvanizado
+13;Ferretería;Tornillos;Tornillo fino
+14;Ferretería;Tornillos;Tornillo grueso
+15;Ferretería;Tornillos;Tornillo rosca fina
+16;Ferretería;Tornillos;Tornillo rosca gruesa
+17;Ferretería;Tornillos;Tornillo máquina
+18;Ferretería;Tornillos;Tornillo carrocería
+19;Ferretería;Tornillos;Tornillo para concreto
+20;Ferretería;Tornillos;Tornillo expansión
+21;Ferretería;Tornillos;Tornillo especial
+22;Ferretería;Tornillos;Tornillo punta broca
+23;Ferretería;Tornillos;Tornillo cabeza allen
+24;Ferretería;Tornillos;Tornillo seguridad
+25;Ferretería;Tornillos;Kit surtido tornillos
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Ferretería;Tuercas;Tuerca hexagonal M4
+27;Ferretería;Tuercas;Tuerca hexagonal M6
+28;Ferretería;Tuercas;Tuerca hexagonal M8
+29;Ferretería;Tuercas;Tuerca hexagonal M10
+30;Ferretería;Tuercas;Tuerca mariposa
+31;Ferretería;Tuercas;Tuerca ciega
+32;Ferretería;Tuercas;Tuerca autoblocante
+33;Ferretería;Tuercas;Tuerca de seguridad
+34;Ferretería;Tuercas;Tuerca inoxidable
+35;Ferretería;Tuercas;Tuerca galvanizada
+36;Ferretería;Tuercas;Tuerca fina
+37;Ferretería;Tuercas;Tuerca gruesa
+38;Ferretería;Tuercas;Tuerca larga
+39;Ferretería;Tuercas;Tuerca corta
+40;Ferretería;Tuercas;Tuerca especial
+41;Ferretería;Tuercas;Tuerca plástica
+42;Ferretería;Tuercas;Tuerca nylon
+43;Ferretería;Tuercas;Tuerca expansión
+44;Ferretería;Tuercas;Kit tuercas surtidas
+45;Ferretería;Tuercas;Tuerca industrial
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Ferretería;Pernos;Perno M6
+52;Ferretería;Pernos;Perno M8
+53;Ferretería;Pernos;Perno M10
+54;Ferretería;Pernos;Perno M12
+55;Ferretería;Pernos;Perno cabeza hexagonal
+56;Ferretería;Pernos;Perno carrocería
+57;Ferretería;Pernos;Perno inoxidable
+58;Ferretería;Pernos;Perno galvanizado
+59;Ferretería;Pernos;Perno rosca fina
+60;Ferretería;Pernos;Perno rosca gruesa
+61;Ferretería;Pernos;Perno largo
+62;Ferretería;Pernos;Perno corto
+63;Ferretería;Pernos;Perno expansión
+64;Ferretería;Pernos;Perno anclaje
+65;Ferretería;Pernos;Perno seguridad
+66;Ferretería;Pernos;Perno industrial
+67;Ferretería;Pernos;Perno especial
+68;Ferretería;Pernos;Kit pernos surtidos
+69;Ferretería;Pernos;Perno estructural
+70;Ferretería;Pernos;Perno metálico
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Ferretería;Clavos;Clavo común 1”
+77;Ferretería;Clavos;Clavo común 2”
+78;Ferretería;Clavos;Clavo común 3”
+79;Ferretería;Clavos;Clavo galvanizado
+80;Ferretería;Clavos;Clavo para madera
+81;Ferretería;Clavos;Clavo para concreto
+82;Ferretería;Clavos;Clavo fino
+83;Ferretería;Clavos;Clavo grueso
+84;Ferretería;Clavos;Clavo de acero
+85;Ferretería;Clavos;Clavo sin cabeza
+86;Ferretería;Clavos;Clavo para techo
+87;Ferretería;Clavos;Clavo tapicero
+88;Ferretería;Clavos;Clavo industrial
+89;Ferretería;Clavos;Clavo largo
+90;Ferretería;Clavos;Clavo corto
+91;Ferretería;Clavos;Clavo especial
+92;Ferretería;Clavos;Clavo en espiral
+93;Ferretería;Clavos;Clavo en U
+94;Ferretería;Clavos;Kit clavos surtidos
+95;Ferretería;Clavos;Clavo acero inoxidable
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+96;Ferretería;Tarugos;Tarugo plástico 6mm
+97;Ferretería;Tarugos;Tarugo plástico 8mm
+98;Ferretería;Tarugos;Tarugo plástico 10mm
+99;Ferretería;Tarugos;Tarugo expansión
+100;Ferretería;Tarugos;Tarugo metálico
+101;Ferretería;Tarugos;Tarugo para concreto
+102;Ferretería;Tarugos;Tarugo para drywall
+103;Ferretería;Tarugos;Tarugo pesado
+104;Ferretería;Tarugos;Tarugo liviano
+105;Ferretería;Tarugos;Anclaje químico
+106;Ferretería;Tarugos;Anclaje mecánico
+107;Ferretería;Tarugos;Anclaje de pared
+108;Ferretería;Tarugos;Kit tarugos surtidos
+109;Ferretería;Tarugos;Taco expansión
+110;Ferretería;Tarugos;Taco plástico
+111;Ferretería;Tarugos;Taco nylon
+112;Ferretería;Tarugos;Taco metálico
+113;Ferretería;Tarugos;Taco universal
+114;Ferretería;Tarugos;Fijación pared
+115;Ferretería;Tarugos;Fijación pesada
+116;Ferretería;Tarugos;Fijación ligera
+117;Ferretería;Tarugos;Soporte anclaje
+118;Ferretería;Tarugos;Anclaje techo
+119;Ferretería;Tarugos;Anclaje piso
+120;Ferretería;Tarugos;Kit anclajes
+;;;
+ID;Categoría;Subcategoría;Objeto
+121;Ferretería;Bisagras;Bisagra común 2”
+122;Ferretería;Bisagras;Bisagra común 3”
+123;Ferretería;Bisagras;Bisagra pesada
+124;Ferretería;Bisagras;Bisagra liviana
+125;Ferretería;Bisagras;Bisagra inoxidable
+126;Ferretería;Bisagras;Bisagra galvanizada
+127;Ferretería;Bisagras;Bisagra oculta
+128;Ferretería;Bisagras;Bisagra para muebles
+129;Ferretería;Bisagras;Bisagra para puertas
+130;Ferretería;Bisagras;Bisagra para ventanas
+131;Ferretería;Bisagras;Bisagra tipo libro
+132;Ferretería;Bisagras;Bisagra hidráulica
+133;Ferretería;Bisagras;Bisagra de resorte
+134;Ferretería;Bisagras;Bisagra desmontable
+135;Ferretería;Bisagras;Bisagra industrial
+136;Ferretería;Bisagras;Bisagra reforzada
+137;Ferretería;Bisagras;Kit bisagras surtidas
+138;Ferretería;Bisagras;Bisagra metálica
+139;Ferretería;Bisagras;Bisagra pequeña
+140;Ferretería;Bisagras;Bisagra grande
+;;;
+ID;Categoría;Subcategoría;Objeto
+141;Ferretería;Candados;Candado pequeño
+142;Ferretería;Candados;Candado mediano
+143;Ferretería;Candados;Candado grande
+144;Ferretería;Candados;Candado de combinación
+145;Ferretería;Candados;Candado con llave
+146;Ferretería;Candados;Candado reforzado
+147;Ferretería;Candados;Candado de acero
+148;Ferretería;Candados;Candado de bronce
+149;Ferretería;Candados;Candado inoxidable
+150;Ferretería;Candados;Candado industrial
+151;Ferretería;Candados;Candado de bicicleta
+152;Ferretería;Candados;Candado largo
+153;Ferretería;Candados;Candado corto
+154;Ferretería;Candados;Candado tipo U
+155;Ferretería;Candados;Candado tipo disco
+156;Ferretería;Candados;Candado portátil
+157;Ferretería;Candados;Kit candados
+158;Ferretería;Candados;Candado seguridad alta
+159;Ferretería;Candados;Candado liviano
+160;Ferretería;Candados;Candado pesado
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+161;Ferretería;Cerraduras;Cerradura puerta madera
+162;Ferretería;Cerraduras;Cerradura puerta metal
+163;Ferretería;Cerraduras;Cerradura embutida
+164;Ferretería;Cerraduras;Cerradura sobreponer
+165;Ferretería;Cerraduras;Cerradura electrónica
+166;Ferretería;Cerraduras;Cerradura digital
+167;Ferretería;Cerraduras;Cerradura con llave
+168;Ferretería;Cerraduras;Cerradura de seguridad
+169;Ferretería;Cerraduras;Cerradura para ventana
+170;Ferretería;Cerraduras;Cerradura para cajón
+171;Ferretería;Cerraduras;Cerradura industrial
+172;Ferretería;Cerraduras;Cerradura reforzada
+173;Ferretería;Cerraduras;Cerradura tubular
+174;Ferretería;Cerraduras;Cerradura de pomo
+175;Ferretería;Cerraduras;Cerradura de palanca
+176;Ferretería;Cerraduras;Kit cerraduras
+177;Ferretería;Cerraduras;Cerradura inoxidable
+178;Ferretería;Cerraduras;Cerradura liviana
+179;Ferretería;Cerraduras;Cerradura pesada
+180;Ferretería;Cerraduras;Cerradura universal
+;;;
+ID;Categoría;Subcategoría;Objeto
+181;Ferretería;Ganchos;Gancho metálico pequeño
+182;Ferretería;Ganchos;Gancho metálico grande
+183;Ferretería;Ganchos;Gancho adhesivo
+184;Ferretería;Ganchos;Gancho pared
+185;Ferretería;Ganchos;Gancho techo
+186;Ferretería;Ganchos;Gancho para herramientas
+187;Ferretería;Ganchos;Gancho para cocina
+188;Ferretería;Ganchos;Gancho industrial
+189;Ferretería;Ganchos;Gancho pesado
+190;Ferretería;Ganchos;Gancho liviano
+191;Ferretería;Ganchos;Gancho doble
+192;Ferretería;Ganchos;Gancho simple
+193;Ferretería;Ganchos;Gancho con tornillo
+194;Ferretería;Ganchos;Gancho de acero
+195;Ferretería;Ganchos;Gancho inoxidable
+196;Ferretería;Ganchos;Kit ganchos surtidos
+197;Ferretería;Ganchos;Gancho plástico
+198;Ferretería;Ganchos;Gancho colgante
+199;Ferretería;Ganchos;Gancho organizador
+200;Ferretería;Ganchos;Gancho multipropósito
+;;;
+ID;Categoría;Subcategoría;Objeto
+201;Ferretería;Escuadras;Escuadra metálica
+202;Ferretería;Escuadras;Escuadra de carpintero
+203;Ferretería;Escuadras;Escuadra plástica
+204;Ferretería;Escuadras;Escuadra grande
+205;Ferretería;Escuadras;Escuadra pequeña
+206;Ferretería;Escuadras;Escuadra ajustable
+207;Ferretería;Escuadras;Escuadra de precisión
+208;Ferretería;Escuadras;Escuadra magnética
+209;Ferretería;Escuadras;Escuadra industrial
+210;Ferretería;Escuadras;Escuadra de aluminio
+211;Ferretería;Escuadras;Escuadra reforzada
+212;Ferretería;Escuadras;Kit escuadras
+213;Ferretería;Escuadras;Escuadra angular
+214;Ferretería;Escuadras;Escuadra de ángulo fijo
+215;Ferretería;Escuadras;Escuadra de 90°
+216;Ferretería;Escuadras;Escuadra de 45°
+217;Ferretería;Escuadras;Escuadra combinada
+218;Ferretería;Escuadras;Escuadra telescópica
+219;Ferretería;Escuadras;Escuadra de medición
+220;Ferretería;Escuadras;Escuadra profesional
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+221;Ferretería;Cadenas;Cadena metálica fina
+222;Ferretería;Cadenas;Cadena metálica media
+223;Ferretería;Cadenas;Cadena metálica gruesa
+224;Ferretería;Cadenas;Cadena de acero
+225;Ferretería;Cadenas;Cadena galvanizada
+226;Ferretería;Cadenas;Cadena inoxidable
+227;Ferretería;Cadenas;Cadena de seguridad
+228;Ferretería;Cadenas;Cadena para bicicleta
+229;Ferretería;Cadenas;Cadena industrial
+230;Ferretería;Cadenas;Cadena corta
+231;Ferretería;Cadenas;Cadena larga
+232;Ferretería;Cadenas;Cadena reforzada
+233;Ferretería;Cadenas;Cadena ligera
+234;Ferretería;Cadenas;Cadena pesada
+235;Ferretería;Cadenas;Cadena con candado
+236;Ferretería;Cadenas;Cadena decorativa
+237;Ferretería;Cadenas;Cadena para puerta
+238;Ferretería;Cadenas;Cadena para portón
+239;Ferretería;Cadenas;Kit cadenas
+240;Ferretería;Cadenas;Cadena multipropósito
+;;;
+ID;Categoría;Subcategoría;Objeto
+241;Ferretería;Abrazaderas;Abrazadera metálica pequeña
+242;Ferretería;Abrazaderas;Abrazadera metálica grande
+243;Ferretería;Abrazaderas;Abrazadera de plástico
+244;Ferretería;Abrazaderas;Abrazadera de acero
+245;Ferretería;Abrazaderas;Abrazadera inoxidable
+246;Ferretería;Abrazaderas;Abrazadera galvanizada
+247;Ferretería;Abrazaderas;Abrazadera tipo tornillo
+248;Ferretería;Abrazaderas;Abrazadera tipo resorte
+249;Ferretería;Abrazaderas;Abrazadera tipo presión
+250;Ferretería;Abrazaderas;Abrazadera de manguera
+251;Ferretería;Abrazaderas;Abrazadera industrial
+252;Ferretería;Abrazaderas;Abrazadera ligera
+253;Ferretería;Abrazaderas;Abrazadera pesada
+254;Ferretería;Abrazaderas;Abrazadera ajustable
+255;Ferretería;Abrazaderas;Abrazadera fija
+256;Ferretería;Abrazaderas;Abrazadera para tubo
+257;Ferretería;Abrazaderas;Abrazadera para cable
+258;Ferretería;Abrazaderas;Kit abrazaderas
+259;Ferretería;Abrazaderas;Abrazadera doble
+260;Ferretería;Abrazaderas;Abrazadera universal
+;;;
+ID;Categoría;Subcategoría;Objeto
+261;Ferretería;Conectores;Conector eléctrico
+262;Ferretería;Conectores;Conector rápido
+263;Ferretería;Conectores;Conector macho
+264;Ferretería;Conectores;Conector hembra
+265;Ferretería;Conectores;Conector PVC
+266;Ferretería;Conectores;Conector cobre
+267;Ferretería;Conectores;Conector agua
+268;Ferretería;Conectores;Conector gas
+269;Ferretería;Conectores;Conector industrial
+270;Ferretería;Conectores;Conector automotriz
+271;Ferretería;Conectores;Conector de red
+272;Ferretería;Conectores;Conector RJ45
+273;Ferretería;Conectores;Conector RJ11
+274;Ferretería;Conectores;Conector USB
+275;Ferretería;Conectores;Conector HDMI
+276;Ferretería;Conectores;Conector coaxial
+277;Ferretería;Conectores;Conector terminal
+278;Ferretería;Conectores;Conector soldable
+279;Ferretería;Conectores;Kit conectores
+280;Ferretería;Conectores;Conector universal
+;;;
+ID;Categoría;Subcategoría;Objeto
+281;Ferretería;Herrajes;Herraje de puerta
+282;Ferretería;Herrajes;Herraje de ventana
+283;Ferretería;Herrajes;Herraje de mueble
+284;Ferretería;Herrajes;Herraje metálico
+285;Ferretería;Herrajes;Herraje inoxidable
+286;Ferretería;Herrajes;Herraje galvanizado
+287;Ferretería;Herrajes;Herraje reforzado
+288;Ferretería;Herrajes;Herraje ligero
+289;Ferretería;Herrajes;Herraje pesado
+290;Ferretería;Herrajes;Herraje industrial
+291;Ferretería;Herrajes;Bisagra herraje
+292;Ferretería;Herrajes;Soporte herraje
+293;Ferretería;Herrajes;Escuadra herraje
+294;Ferretería;Herrajes;Pletina
+295;Ferretería;Herrajes;Platina
+296;Ferretería;Herrajes;Ángulo metálico
+297;Ferretería;Herrajes;Refuerzo metálico
+298;Ferretería;Herrajes;Kit herrajes
+299;Ferretería;Herrajes;Herraje universal
+300;Ferretería;Herrajes;Herraje estructural
+;;;
+ID;Categoría;Subcategoría;Objeto
+301;Ferretería;Consumibles;Silicona transparente
+302;Ferretería;Consumibles;Silicona negra
+303;Ferretería;Consumibles;Silicona blanca
+304;Ferretería;Consumibles;Pegamento epóxico
+305;Ferretería;Consumibles;Pegamento instantáneo
+306;Ferretería;Consumibles;Pegamento madera
+307;Ferretería;Consumibles;Pegamento metal
+308;Ferretería;Consumibles;Lubricante spray
+309;Ferretería;Consumibles;Aceite penetrante
+310;Ferretería;Consumibles;Grasa industrial
+311;Ferretería;Consumibles;Sellador acrílico
+312;Ferretería;Consumibles;Sellador poliuretano
+313;Ferretería;Consumibles;Cinta aislante
+314;Ferretería;Consumibles;Cinta americana
+315;Ferretería;Consumibles;Cinta doble contacto
+316;Ferretería;Consumibles;Cinta aluminio
+317;Ferretería;Consumibles;Lija fina
+318;Ferretería;Consumibles;Lija gruesa
+319;Ferretería;Consumibles;Brochas
+320;Ferretería;Consumibles;Rodillos
+;;;
+;;;
+electricidad;;;
+ID;Categoría;Subcategoría;Objeto
+321;Ferretería;Electricidad;Cable eléctrico 1.5 mm
+322;Ferretería;Electricidad;Cable eléctrico 2.5 mm
+323;Ferretería;Electricidad;Cable eléctrico 4 mm
+324;Ferretería;Electricidad;Cable eléctrico 6 mm
+325;Ferretería;Electricidad;Cable de cobre
+326;Ferretería;Electricidad;Cable de aluminio
+327;Ferretería;Electricidad;Cable flexible
+328;Ferretería;Electricidad;Cable rígido
+329;Ferretería;Electricidad;Extensión eléctrica
+330;Ferretería;Electricidad;Enchufe macho
+331;Ferretería;Electricidad;Enchufe hembra
+332;Ferretería;Electricidad;Regleta eléctrica
+333;Ferretería;Electricidad;Interruptor simple
+334;Ferretería;Electricidad;Interruptor doble
+335;Ferretería;Electricidad;Interruptor automático
+336;Ferretería;Electricidad;Portalámparas
+337;Ferretería;Electricidad;Foco LED
+338;Ferretería;Electricidad;Ampolleta LED
+339;Ferretería;Electricidad;Bombilla incandescente
+340;Ferretería;Electricidad;Fusible 10A
+341;Ferretería;Electricidad;Fusible 15A
+342;Ferretería;Electricidad;Fusible 20A
+343;Ferretería;Electricidad;Tablero eléctrico
+344;Ferretería;Electricidad;Breaker automático
+345;Ferretería;Electricidad;Caja eléctrica
+346;Ferretería;Electricidad;Canaleta eléctrica
+347;Ferretería;Electricidad;Cinta aislante eléctrica
+348;Ferretería;Electricidad;Conector eléctrico
+349;Ferretería;Electricidad;Terminal eléctrico
+350;Ferretería;Electricidad;Tester de corriente
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+351;Ferretería;Fijaciones;Taco químico
+352;Ferretería;Fijaciones;Anclaje químico epóxico
+353;Ferretería;Fijaciones;Anclaje de expansión
+354;Ferretería;Fijaciones;Anclaje metálico pesado
+355;Ferretería;Fijaciones;Anclaje para concreto
+356;Ferretería;Fijaciones;Anclaje para ladrillo
+357;Ferretería;Fijaciones;Tornillo anclaje
+358;Ferretería;Fijaciones;Perno anclaje pesado
+359;Ferretería;Fijaciones;Perno expansión muro
+360;Ferretería;Fijaciones;Fijación tipo mariposa
+361;Ferretería;Fijaciones;Fijación drywall
+362;Ferretería;Fijaciones;Fijación techo falso
+363;Ferretería;Fijaciones;Fijación estructural
+364;Ferretería;Fijaciones;Fijación industrial
+365;Ferretería;Fijaciones;Kit fijaciones
+366;Ferretería;Fijaciones;Clip fijación
+367;Ferretería;Fijaciones;Grapa metálica
+368;Ferretería;Fijaciones;Grapa plástica
+369;Ferretería;Fijaciones;Remache pop
+370;Ferretería;Fijaciones;Remache aluminio
+371;Ferretería;Fijaciones;Remache acero
+372;Ferretería;Fijaciones;Remachadora
+373;Ferretería;Fijaciones;Grapadora industrial
+374;Ferretería;Fijaciones;Clavadora manual
+375;Ferretería;Fijaciones;Clavadora eléctrica
+376;Ferretería;Fijaciones;Grapas industriales
+377;Ferretería;Fijaciones;Pernos especiales
+378;Ferretería;Fijaciones;Tuercas especiales
+379;Ferretería;Fijaciones;Tornillos estructurales
+380;Ferretería;Fijaciones;Kit anclaje completo
+;;;
+ID;Categoría;Subcategoría;Objeto
+381;Ferretería;Sellantes;Espuma expansiva
+382;Ferretería;Sellantes;Espuma poliuretano
+383;Ferretería;Sellantes;Sellador acrílico blanco
+384;Ferretería;Sellantes;Sellador transparente
+385;Ferretería;Sellantes;Sellador poliuretano
+386;Ferretería;Sellantes;Sellador silicona baño
+387;Ferretería;Sellantes;Sellador silicona cocina
+388;Ferretería;Sellantes;Sellador alta temperatura
+389;Ferretería;Sellantes;Masilla epóxica
+390;Ferretería;Sellantes;Masilla reparación
+391;Ferretería;Sellantes;Masilla madera
+392;Ferretería;Sellantes;Masilla metal
+393;Ferretería;Sellantes;Cemento plástico
+394;Ferretería;Sellantes;Pegamento sellante
+395;Ferretería;Sellantes;Sellador impermeable
+396;Ferretería;Sellantes;Sellador grietas
+397;Ferretería;Sellantes;Sellador techo
+398;Ferretería;Sellantes;Sellador paredes
+399;Ferretería;Sellantes;Kit sellantes
+400;Ferretería;Sellantes;Pistola silicona
+401;Ferretería;Sellantes;Barras silicona
+402;Ferretería;Sellantes;Espuma baja expansión
+403;Ferretería;Sellantes;Espuma alta expansión
+404;Ferretería;Sellantes;Sellador industrial
+405;Ferretería;Sellantes;Sellador flexible
+406;Ferretería;Sellantes;Sellador rápido
+407;Ferretería;Sellantes;Sellador universal
+408;Ferretería;Sellantes;Sellador acrílico flexible
+409;Ferretería;Sellantes;Sellador resistente agua
+410;Ferretería;Sellantes;Sellador profesional
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+411;Ferretería;Kits;Kit herramientas hogar
+412;Ferretería;Kits;Kit herramientas profesional
+413;Ferretería;Kits;Kit electricista
+414;Ferretería;Kits;Kit carpintería
+415;Ferretería;Kits;Kit mecánico
+416;Ferretería;Kits;Kit reparación hogar
+417;Ferretería;Kits;Kit tornillos surtidos
+418;Ferretería;Kits;Kit pernos surtidos
+419;Ferretería;Kits;Kit tuercas surtidas
+420;Ferretería;Kits;Kit fijaciones
+421;Ferretería;Kits;Kit anclajes
+422;Ferretería;Kits;Kit sellantes
+423;Ferretería;Kits;Kit electricidad
+424;Ferretería;Kits;Kit emergencia herramientas
+425;Ferretería;Kits;Kit bricolaje
+426;Ferretería;Kits;Maletín herramientas
+427;Ferretería;Kits;Caja herramientas completa
+428;Ferretería;Kits;Kit mantenimiento
+429;Ferretería;Kits;Kit industrial
+430;Ferretería;Kits;Kit universal herramientas
+;;;
+;;;
+HERRAMIENTAS ELÉCTRICAS (431–500);;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+431;Ferretería;Eléctricas;Taladro eléctrico
+432;Ferretería;Eléctricas;Taladro inalámbrico
+433;Ferretería;Eléctricas;Taladro percutor
+434;Ferretería;Eléctricas;Atornillador eléctrico
+435;Ferretería;Eléctricas;Atornillador inalámbrico
+436;Ferretería;Eléctricas;Esmeril angular
+437;Ferretería;Eléctricas;Mini esmeril
+438;Ferretería;Eléctricas;Lijadora orbital
+439;Ferretería;Eléctricas;Lijadora de banda
+440;Ferretería;Eléctricas;Sierra circular
+441;Ferretería;Eléctricas;Sierra caladora
+442;Ferretería;Eléctricas;Sierra sable
+443;Ferretería;Eléctricas;Cepilladora eléctrica
+444;Ferretería;Eléctricas;Fresadora
+445;Ferretería;Eléctricas;Router de madera
+446;Ferretería;Eléctricas;Compresor de aire
+447;Ferretería;Eléctricas;Pistola de aire
+448;Ferretería;Eléctricas;Pistola de pintura
+449;Ferretería;Eléctricas;Soldadora eléctrica
+450;Ferretería;Eléctricas;Inversor de soldadura
+451;Ferretería;Eléctricas;Generador eléctrico
+452;Ferretería;Eléctricas;Batería herramienta
+453;Ferretería;Eléctricas;Cargador batería
+454;Ferretería;Eléctricas;Amoladora grande
+455;Ferretería;Eléctricas;Amoladora pequeña
+456;Ferretería;Eléctricas;Rotomartillo
+457;Ferretería;Eléctricas;Martillo demoledor
+458;Ferretería;Eléctricas;Cortadora eléctrica
+459;Ferretería;Eléctricas;Cortadora metal
+460;Ferretería;Eléctricas;Cortadora concreto
+461;Ferretería;Eléctricas;Pulidora eléctrica
+462;Ferretería;Eléctricas;Engrapadora eléctrica
+463;Ferretería;Eléctricas;Clavadora neumática
+464;Ferretería;Eléctricas;Clavadora eléctrica
+465;Ferretería;Eléctricas;Pistola térmica
+466;Ferretería;Eléctricas;Decapador aire caliente
+467;Ferretería;Eléctricas;Aspiradora industrial
+468;Ferretería;Eléctricas;Soplador eléctrico
+469;Ferretería;Eléctricas;Hidrolavadora
+470;Ferretería;Eléctricas;Vibrador concreto
+471;Ferretería;Eléctricas;Mezcladora eléctrica
+472;Ferretería;Eléctricas;Compactadora
+473;Ferretería;Eléctricas;Sierra de mesa
+474;Ferretería;Eléctricas;Sierra ingletadora
+475;Ferretería;Eléctricas;Taladro banco
+476;Ferretería;Eléctricas;Amoladora banco
+477;Ferretería;Eléctricas;Pulidora banco
+478;Ferretería;Eléctricas;Cortadora angular
+479;Ferretería;Eléctricas;Cortadora disco
+480;Ferretería;Eléctricas;Kit herramientas eléctricas
+481;Ferretería;Eléctricas;Juego brocas eléctricas
+482;Ferretería;Eléctricas;Juego discos corte
+483;Ferretería;Eléctricas;Accesorios esmeril
+484;Ferretería;Eléctricas;Accesorios taladro
+485;Ferretería;Eléctricas;Mandril eléctrico
+486;Ferretería;Eléctricas;Adaptador eléctrico
+487;Ferretería;Eléctricas;Extensión industrial
+488;Ferretería;Eléctricas;Enrollador cable
+489;Ferretería;Eléctricas;Transformador eléctrico
+490;Ferretería;Eléctricas;Regulador voltaje
+491;Ferretería;Eléctricas;Multímetro digital
+492;Ferretería;Eléctricas;Pinza amperimétrica
+493;Ferretería;Eléctricas;Detector voltaje
+494;Ferretería;Eléctricas;Tester continuidad
+495;Ferretería;Eléctricas;Detector cables
+496;Ferretería;Eléctricas;Sensor eléctrico
+497;Ferretería;Eléctricas;Temporizador eléctrico
+498;Ferretería;Eléctricas;Relé eléctrico
+499;Ferretería;Eléctricas;Fusible industrial
+500;Ferretería;Eléctricas;Tablero eléctrico avanzado
+;;;
+ID;Categoría;Subcategoría;Objeto
+501;Ferretería;Construcción;Cemento bolsa
+502;Ferretería;Construcción;Mortero
+503;Ferretería;Construcción;Arena fina
+504;Ferretería;Construcción;Grava
+505;Ferretería;Construcción;Yeso
+506;Ferretería;Construcción;Cal
+507;Ferretería;Construcción;Ladrillo
+508;Ferretería;Construcción;Bloque cemento
+509;Ferretería;Construcción;Tabique
+510;Ferretería;Construcción;Placa yeso
+511;Ferretería;Construcción;Placa cemento
+512;Ferretería;Construcción;Malla metálica
+513;Ferretería;Construcción;Malla galvanizada
+514;Ferretería;Construcción;Alambre amarre
+515;Ferretería;Construcción;Alambre galvanizado
+516;Ferretería;Construcción;Fierro construcción
+517;Ferretería;Construcción;Varilla acero
+518;Ferretería;Construcción;Perfil metálico
+519;Ferretería;Construcción;Perfil aluminio
+520;Ferretería;Construcción;Viga metálica
+521;Ferretería;Construcción;Pletina acero
+522;Ferretería;Construcción;Placa metal
+523;Ferretería;Construcción;Pintura látex
+524;Ferretería;Construcción;Pintura esmalte
+525;Ferretería;Construcción;Barniz
+526;Ferretería;Construcción;Sellador paredes
+527;Ferretería;Construcción;Impermeabilizante
+528;Ferretería;Construcción;Membrana asfáltica
+529;Ferretería;Construcción;Teja asfáltica
+530;Ferretería;Construcción;Teja cerámica
+531;Ferretería;Construcción;Canaleta agua
+532;Ferretería;Construcción;Tubo PVC
+533;Ferretería;Construcción;Tubo cobre
+534;Ferretería;Construcción;Tubo acero
+535;Ferretería;Construcción;Conector tubería
+536;Ferretería;Construcción;Codo PVC
+537;Ferretería;Construcción;Tee PVC
+538;Ferretería;Construcción;Válvula agua
+539;Ferretería;Construcción;Llave paso
+540;Ferretería;Construcción;Grifo
+541;Ferretería;Construcción;Lavamanos
+542;Ferretería;Construcción;Inodoro
+543;Ferretería;Construcción;Ducha
+544;Ferretería;Construcción;Flexibles agua
+545;Ferretería;Construcción;Sifón
+546;Ferretería;Construcción;Desagüe
+547;Ferretería;Construcción;Rejilla drenaje
+548;Ferretería;Construcción;Impermeabilizante techo
+549;Ferretería;Construcción;Espuma sellado
+550;Ferretería;Construcción;Silicona construcción
+551;Ferretería;Construcción;Pegamento construcción
+552;Ferretería;Construcción;Mortero rápido
+553;Ferretería;Construcción;Adhesivo cerámica
+554;Ferretería;Construcción;Pegamento PVC
+555;Ferretería;Construcción;Tornillo estructural
+556;Ferretería;Construcción;Anclaje químico
+557;Ferretería;Construcción;Taco expansión
+558;Ferretería;Construcción;Clavo construcción
+559;Ferretería;Construcción;Grapa construcción
+560;Ferretería;Construcción;Madera estructural
+561;Ferretería;Construcción;Tablero MDF
+562;Ferretería;Construcción;Tablero OSB
+563;Ferretería;Construcción;Triplay
+564;Ferretería;Construcción;Listón madera
+565;Ferretería;Construcción;Perfil drywall
+566;Ferretería;Construcción;Placa fibrocemento
+567;Ferretería;Construcción;Pintura anticorrosiva
+568;Ferretería;Construcción;Pintura exterior
+569;Ferretería;Construcción;Pintura interior
+570;Ferretería;Construcción;Rodillo pintura
+571;Ferretería;Construcción;Brocha pintura
+572;Ferretería;Construcción;Espátula obra
+573;Ferretería;Construcción;Llana
+574;Ferretería;Construcción;Palustre
+575;Ferretería;Construcción;Nivel obra
+576;Ferretería;Construcción;Plomada
+577;Ferretería;Construcción;Cinta medir obra
+578;Ferretería;Construcción;Carretilla
+579;Ferretería;Construcción;Pala
+580;Ferretería;Construcción;Picota
+581;Ferretería;Construcción;Martillo obra
+582;Ferretería;Construcción;Cortadora obra
+583;Ferretería;Construcción;Vibrador concreto
+584;Ferretería;Construcción;Compactadora suelo
+585;Ferretería;Construcción;Mezcladora cemento
+586;Ferretería;Construcción;Andamio
+587;Ferretería;Construcción;Escalera aluminio
+588;Ferretería;Construcción;Escalera telescópica
+589;Ferretería;Construcción;Arnés seguridad
+590;Ferretería;Construcción;Casco obra
+591;Ferretería;Construcción;Guantes obra
+592;Ferretería;Construcción;Lentes seguridad
+593;Ferretería;Construcción;Mascarilla polvo
+594;Ferretería;Construcción;Chaleco reflectante
+595;Ferretería;Construcción;Botas seguridad
+596;Ferretería;Construcción;Cuerda seguridad
+597;Ferretería;Construcción;Mosquetón obra
+598;Ferretería;Construcción;Línea vida
+599;Ferretería;Construcción;Kit seguridad obra
+600;Ferretería;Construcción;Herramienta multifunción obra
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+601;Ferretería;Adhesivos;Pegamento epóxico industrial
+602;Ferretería;Adhesivos;Adhesivo estructural
+603;Ferretería;Adhesivos;Pegamento instantáneo industrial
+604;Ferretería;Adhesivos;Adhesivo PVC
+605;Ferretería;Adhesivos;Adhesivo metal
+606;Ferretería;Adhesivos;Adhesivo madera profesional
+607;Ferretería;Adhesivos;Pegamento contacto
+608;Ferretería;Adhesivos;Adhesivo alta resistencia
+609;Ferretería;Adhesivos;Adhesivo flexible
+610;Ferretería;Adhesivos;Adhesivo industrial rápido
+611;Ferretería;Adhesivos;Resina epóxica
+612;Ferretería;Adhesivos;Adhesivo bicomponente
+613;Ferretería;Adhesivos;Adhesivo construcción
+614;Ferretería;Adhesivos;Adhesivo poliuretano
+615;Ferretería;Adhesivos;Adhesivo acrílico
+616;Ferretería;Adhesivos;Adhesivo térmico
+617;Ferretería;Adhesivos;Adhesivo impermeable
+618;Ferretería;Adhesivos;Adhesivo estructural fuerte
+619;Ferretería;Adhesivos;Kit adhesivos
+620;Ferretería;Adhesivos;Adhesivo universal industrial
+;;;
+ID;Categoría;Subcategoría;Objeto
+621;Ferretería;Selladores;Sellador poliuretano
+622;Ferretería;Selladores;Sellador silicona industrial
+623;Ferretería;Selladores;Sellador acrílico profesional
+624;Ferretería;Selladores;Sellador impermeable
+625;Ferretería;Selladores;Sellador de grietas
+626;Ferretería;Selladores;Sellador estructural
+627;Ferretería;Selladores;Sellador alta temperatura
+628;Ferretería;Selladores;Sellador flexible
+629;Ferretería;Selladores;Sellador rápido secado
+630;Ferretería;Selladores;Sellador epóxico
+631;Ferretería;Selladores;Sellador techos
+632;Ferretería;Selladores;Sellador paredes
+633;Ferretería;Selladores;Sellador industrial pesado
+634;Ferretería;Selladores;Sellador multiuso
+635;Ferretería;Selladores;Kit selladores
+636;Ferretería;Pinturas;Pintura anticorrosiva
+637;Ferretería;Pinturas;Pintura industrial
+638;Ferretería;Pinturas;Pintura epóxica
+639;Ferretería;Pinturas;Pintura látex profesional
+640;Ferretería;Pinturas;Pintura esmalte
+641;Ferretería;Pinturas;Pintura alta temperatura
+642;Ferretería;Pinturas;Pintura metalizada
+643;Ferretería;Pinturas;Pintura exterior
+644;Ferretería;Pinturas;Pintura interior
+645;Ferretería;Pinturas;Pintura impermeable
+646;Ferretería;Pinturas;Pintura en spray
+647;Ferretería;Pinturas;Primer anticorrosivo
+648;Ferretería;Pinturas;Barniz industrial
+649;Ferretería;Pinturas;Sellador pintura
+650;Ferretería;Pinturas;Kit pintura profesional
+651;Ferretería;Lubricantes;Aceite penetrante
+652;Ferretería;Lubricantes;Grasa industrial
+653;Ferretería;Lubricantes;Lubricante en spray
+654;Ferretería;Lubricantes;Aceite maquinaria
+655;Ferretería;Lubricantes;Lubricante cadenas
+656;Ferretería;Lubricantes;Desoxidante
+657;Ferretería;Lubricantes;Desengrasante
+658;Ferretería;Lubricantes;Limpiador industrial
+659;Ferretería;Lubricantes;Anticorrosivo
+660;Ferretería;Lubricantes;Refrigerante industrial
+661;Ferretería;Lubricantes;Aceite hidráulico
+662;Ferretería;Lubricantes;Lubricante seco
+663;Ferretería;Lubricantes;Spray limpieza
+664;Ferretería;Lubricantes;Kit lubricación
+665;Ferretería;Lubricantes;Aceite multiuso
+666;Ferretería;Limpieza;Cepillo metálico
+667;Ferretería;Limpieza;Cepillo industrial
+668;Ferretería;Limpieza;Esponja abrasiva
+669;Ferretería;Limpieza;Paño industrial
+670;Ferretería;Limpieza;Detergente industrial
+671;Ferretería;Limpieza;Desinfectante
+672;Ferretería;Limpieza;Limpiador superficies
+673;Ferretería;Limpieza;Removedor óxido
+674;Ferretería;Limpieza;Limpiador herramientas
+675;Ferretería;Limpieza;Spray limpieza
+676;Ferretería;Limpieza;Limpiador grasa
+677;Ferretería;Limpieza;Limpiador metal
+678;Ferretería;Limpieza;Limpiador eléctrico
+679;Ferretería;Limpieza;Kit limpieza industrial
+680;Ferretería;Limpieza;Guantes nitrilo
+681;Ferretería;Limpieza;Guantes cuero
+682;Ferretería;Limpieza;Lentes seguridad
+683;Ferretería;Limpieza;Mascarilla industrial
+684;Ferretería;Limpieza;Casco seguridad
+685;Ferretería;Limpieza;Chaleco reflectante
+686;Ferretería;Limpieza;Botas seguridad
+687;Ferretería;Limpieza;Arnés seguridad
+688;Ferretería;Limpieza;Cinturón herramientas
+689;Ferretería;Limpieza;Kit protección
+690;Ferretería;Limpieza;Señalización seguridad
+691;Ferretería;Limpieza;Cinta seguridad
+692;Ferretería;Limpieza;Extintor
+693;Ferretería;Limpieza;Detector gas
+694;Ferretería;Limpieza;Detector humo
+695;Ferretería;Limpieza;Kit emergencia
+696;Ferretería;Limpieza;Botiquín
+697;Ferretería;Limpieza;Señal piso mojado
+698;Ferretería;Limpieza;Barrera seguridad
+699;Ferretería;Limpieza;Cono señalización
+700;Ferretería;Limpieza;Kit seguridad completo
+701;Ferretería;Tornillería;Tornillo estructural
+702;Ferretería;Tornillería;Tornillo industrial
+703;Ferretería;Tornillería;Tornillo alta resistencia
+704;Ferretería;Tornillería;Tornillo inox premium
+705;Ferretería;Tornillería;Tornillo autoperforante industrial
+706;Ferretería;Tornillería;Tornillo cabeza hexagonal
+707;Ferretería;Tornillería;Tornillo cabeza allen
+708;Ferretería;Tornillería;Tornillo seguridad
+709;Ferretería;Tornillería;Tornillo expansión
+710;Ferretería;Tornillería;Tornillo precisión
+711;Ferretería;Tornillería;Tornillo maquinaria
+712;Ferretería;Tornillería;Tornillo carrocería
+713;Ferretería;Tornillería;Tornillo drywall profesional
+714;Ferretería;Tornillería;Tornillo zincado
+715;Ferretería;Tornillería;Tornillo galvanizado
+716;Ferretería;Tornillería;Tornillo métrico
+717;Ferretería;Tornillería;Tornillo largo industrial
+718;Ferretería;Tornillería;Tornillo corto industrial
+719;Ferretería;Tornillería;Kit tornillería avanzada
+720;Ferretería;Tornillería;Tornillo universal industrial
+721;Ferretería;Fijación;Sistema anclaje químico
+722;Ferretería;Fijación;Sistema expansión pesado
+723;Ferretería;Fijación;Sistema fijación muro
+724;Ferretería;Fijación;Sistema fijación techo
+725;Ferretería;Fijación;Sistema fijación suelo
+726;Ferretería;Fijación;Kit fijación industrial
+727;Ferretería;Fijación;Clip fijación metal
+728;Ferretería;Fijación;Grapa industrial
+729;Ferretería;Fijación;Remache profesional
+730;Ferretería;Fijación;Clavadora industrial
+731;Ferretería;Fijación;Grapadora profesional
+732;Ferretería;Fijación;Fijación drywall avanzada
+733;Ferretería;Fijación;Fijación estructural acero
+734;Ferretería;Fijación;Fijación aluminio
+735;Ferretería;Fijación;Anclaje pesado industrial
+736;Ferretería;Fijación;Anclaje liviano
+737;Ferretería;Fijación;Anclaje universal
+738;Ferretería;Fijación;Kit anclaje completo
+739;Ferretería;Fijación;Sistema modular fijación
+740;Ferretería;Fijación;Sistema profesional montaje
+741;Ferretería;Eléctricos;Cable industrial
+742;Ferretería;Eléctricos;Cable alta tensión
+743;Ferretería;Eléctricos;Conector industrial
+744;Ferretería;Eléctricos;Terminal eléctrico
+745;Ferretería;Eléctricos;Interruptor industrial
+746;Ferretería;Eléctricos;Fusible industrial
+747;Ferretería;Eléctricos;Relé industrial
+748;Ferretería;Eléctricos;Tablero eléctrico
+749;Ferretería;Eléctricos;Breaker industrial
+750;Ferretería;Eléctricos;Sensor eléctrico
+751;Ferretería;Eléctricos;Transformador
+752;Ferretería;Eléctricos;Regulador voltaje
+753;Ferretería;Eléctricos;Multímetro industrial
+754;Ferretería;Eléctricos;Pinza amperimétrica
+755;Ferretería;Eléctricos;Detector cables
+756;Ferretería;Eléctricos;Timer eléctrico
+757;Ferretería;Eléctricos;Enchufe industrial
+758;Ferretería;Eléctricos;Regleta industrial
+759;Ferretería;Eléctricos;Caja conexiones
+760;Ferretería;Eléctricos;Kit eléctrico profesional
+761;Ferretería;Mecánica;Rodamiento industrial
+762;Ferretería;Mecánica;Cojinete
+763;Ferretería;Mecánica;Engranaje
+764;Ferretería;Mecánica;Polea
+765;Ferretería;Mecánica;Correa transmisión
+766;Ferretería;Mecánica;Eje metálico
+767;Ferretería;Mecánica;Resorte industrial
+768;Ferretería;Mecánica;Válvula industrial
+769;Ferretería;Mecánica;Perno maquinaria
+770;Ferretería;Mecánica;Tuerca industrial
+771;Ferretería;Mecánica;Tornillo precisión
+772;Ferretería;Mecánica;Arandela industrial
+773;Ferretería;Mecánica;Chaveta
+774;Ferretería;Mecánica;Pasador
+775;Ferretería;Mecánica;Acople
+776;Ferretería;Mecánica;Adaptador mecánico
+777;Ferretería;Mecánica;Junta mecánica
+778;Ferretería;Mecánica;Sellos mecánicos
+779;Ferretería;Mecánica;Kit repuestos maquinaria
+780;Ferretería;Mecánica;Kit mantenimiento industrial
+781;Ferretería;Mecánica;Piezas universales
+782;Ferretería;Mecánica;Componentes acero
+783;Ferretería;Mecánica;Componentes aluminio
+784;Ferretería;Mecánica;Componentes plástico técnico
+785;Ferretería;Mecánica;Soportes metálicos
+786;Ferretería;Mecánica;Bases maquinaria
+787;Ferretería;Mecánica;Tornillería maquinaria
+788;Ferretería;Mecánica;Accesorios industriales
+789;Ferretería;Mecánica;Kit herramientas mecánico
+790;Ferretería;Mecánica;Kit reparación industrial
+791;Ferretería;Mecánica;Kit universal piezas
+792;Ferretería;Mecánica;Repuesto estándar
+793;Ferretería;Mecánica;Repuesto industrial
+794;Ferretería;Mecánica;Kit mantenimiento completo
+795;Ferretería;Mecánica;Accesorios maquinaria pesada
+796;Ferretería;Mecánica;Kit mecánico profesional
+797;Ferretería;Mecánica;Repuesto universal
+798;Ferretería;Mecánica;Piezas automotrices básicas
+799;Ferretería;Mecánica;Kit repuestos general
+800;Ferretería;Mecánica;Sistema completo ferretería
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Pintura;Interior;Látex blanco interior
+2;Pintura;Interior;Látex beige interior
+3;Pintura;Interior;Látex gris interior
+4;Pintura;Interior;Pintura acrílica interior
+5;Pintura;Interior;Pintura mate interior
+6;Pintura;Interior;Pintura satinada interior
+7;Pintura;Interior;Pintura lavable interior
+8;Pintura;Interior;Pintura antihumedad interior
+9;Pintura;Interior;Pintura ecológica interior
+10;Pintura;Interior;Pintura blanca premium
+11;Pintura;Interior;Pintura color crema
+12;Pintura;Interior;Pintura celeste interior
+13;Pintura;Interior;Pintura verde interior
+14;Pintura;Interior;Pintura azul interior
+15;Pintura;Interior;Pintura gris claro
+16;Pintura;Interior;Pintura gris oscuro
+17;Pintura;Interior;Pintura interior anti manchas
+18;Pintura;Interior;Pintura interior mate suave
+19;Pintura;Interior;Pintura interior brillante
+20;Pintura;Interior;Pintura interior rápida secado
+21;Pintura;Interior;Pintura interior bajo olor
+22;Pintura;Interior;Pintura interior premium
+23;Pintura;Interior;Pintura interior económica
+24;Pintura;Interior;Pintura interior base agua
+25;Pintura;Interior;Pintura interior alta cobertura
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Construcción;Cementos;Cemento gris 25kg
+2;Construcción;Cementos;Cemento rápido fraguado
+3;Construcción;Cementos;Mortero preparado
+4;Construcción;Cementos;Mortero adhesivo
+5;Construcción;Cementos;Cal hidratada
+6;Construcción;Cementos;Cemento blanco
+7;Construcción;Cementos;Pasta niveladora
+8;Construcción;Cementos;Hormigón seco
+9;Construcción;Cementos;Grout estructural
+10;Construcción;Cementos;Cemento impermeable
+11;Construcción;Cementos;Cemento alta resistencia
+12;Construcción;Cementos;Mortero fino
+13;Construcción;Cementos;Mortero grueso
+14;Construcción;Cementos;Adhesivo cerámico
+15;Construcción;Cementos;Adhesivo porcelanato
+16;Construcción;Cementos;Revoque fino
+17;Construcción;Cementos;Revoque grueso
+18;Construcción;Cementos;Estuco interior
+19;Construcción;Cementos;Estuco exterior
+20;Construcción;Cementos;Mezcla seca universal
+21;Construcción;Cementos;Cemento estructural
+22;Construcción;Cementos;Cemento autonivelante
+23;Construcción;Cementos;Mortero reparación
+24;Construcción;Cementos;Cemento polímero
+25;Construcción;Cementos;Kit cemento reparación
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Construcción;Materiales;Ladrillo cerámico
+27;Construcción;Materiales;Bloque de hormigón
+28;Construcción;Materiales;Bloque cemento
+29;Construcción;Materiales;Yeso construcción
+30;Construcción;Materiales;Placa yeso cartón
+31;Construcción;Materiales;Placa fibrocemento
+32;Construcción;Materiales;Placa OSB
+33;Construcción;Materiales;Panel PVC construcción
+34;Construcción;Materiales;Arena fina
+35;Construcción;Materiales;Arena gruesa
+36;Construcción;Materiales;Grava
+37;Construcción;Materiales;Ripio
+38;Construcción;Materiales;Piedra chancada
+39;Construcción;Materiales;Poliestireno construcción
+40;Construcción;Materiales;Aislante térmico
+41;Construcción;Materiales;Lana mineral
+42;Construcción;Materiales;Espuma aislante
+43;Construcción;Materiales;Malla galvanizada
+44;Construcción;Materiales;Malla electrosoldada
+45;Construcción;Materiales;Geotextil
+46;Construcción;Materiales;Plástico construcción
+47;Construcción;Materiales;Membrana impermeable
+48;Construcción;Materiales;Fieltro asfáltico
+49;Construcción;Materiales;Teja asfáltica
+50;Construcción;Materiales;Teja cerámica
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Construcción;Estructuras;Fierro 10mm
+52;Construcción;Estructuras;Fierro 12mm
+53;Construcción;Estructuras;Fierro 16mm
+54;Construcción;Estructuras;Viga acero
+55;Construcción;Estructuras;Perfil metálico
+56;Construcción;Estructuras;Tubo estructural
+57;Construcción;Estructuras;Angulo hierro
+58;Construcción;Estructuras;Canal U metal
+59;Construcción;Estructuras;Plancha acero
+60;Construcción;Estructuras;Placa aluminio
+61;Construcción;Estructuras;Malla acero
+62;Construcción;Estructuras;Clavo construcción
+63;Construcción;Estructuras;Tornillo estructural
+64;Construcción;Estructuras;Remache industrial
+65;Construcción;Estructuras;Grapa metálica
+66;Construcción;Estructuras;Varilla roscada
+67;Construcción;Estructuras;Soporte metálico
+68;Construcción;Estructuras;Anclaje químico
+69;Construcción;Estructuras;Placa base acero
+70;Construcción;Estructuras;Conector metálico
+71;Construcción;Estructuras;Perno alta resistencia
+72;Construcción;Estructuras;Tuerca industrial
+73;Construcción;Estructuras;Arandela estructural
+74;Construcción;Estructuras;Kit estructura metal
+75;Construcción;Estructuras;Perfil liviano drywall
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Construcción;Herramientas;Pala punta
+77;Construcción;Herramientas;Pala cuadrada
+78;Construcción;Herramientas;Carretilla
+79;Construcción;Herramientas;Martillo obra
+80;Construcción;Herramientas;Nivel burbuja
+81;Construcción;Herramientas;Plomada
+82;Construcción;Herramientas;Flexómetro
+83;Construcción;Herramientas;Llana metálica
+84;Construcción;Herramientas;Llana dentada
+85;Construcción;Herramientas;Palustre
+86;Construcción;Herramientas;Mezclador cemento
+87;Construcción;Herramientas;Vibrador hormigón
+88;Construcción;Herramientas;Taladro percutor
+89;Construcción;Herramientas;Rotomartillo
+90;Construcción;Herramientas;Esmeril angular
+91;Construcción;Herramientas;Sierra circular
+92;Construcción;Herramientas;Cortadora disco
+93;Construcción;Herramientas;Andamio
+94;Construcción;Herramientas;Escalera aluminio
+95;Construcción;Herramientas;Cinta seguridad
+96;Construcción;Herramientas;Casco seguridad
+97;Construcción;Herramientas;Guantes obra
+98;Construcción;Herramientas;Gafas protección
+99;Construcción;Herramientas;Botas seguridad
+100;Construcción;Herramientas;Kit herramientas obra
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Construcción;Adhesivos;Pegamento construcción
+102;Construcción;Adhesivos;Adhesivo epóxico
+103;Construcción;Adhesivos;Adhesivo cerámico
+104;Construcción;Adhesivos;Adhesivo PVC
+105;Construcción;Adhesivos;Adhesivo estructural
+106;Construcción;Adhesivos;Silicona construcción
+107;Construcción;Adhesivos;Sellador poliuretano
+108;Construcción;Adhesivos;Espuma expansiva
+109;Construcción;Adhesivos;Resina epóxica
+110;Construcción;Adhesivos;Mortero adhesivo
+111;Construcción;Adhesivos;Anclaje químico
+112;Construcción;Adhesivos;Impermeabilizante líquido
+113;Construcción;Adhesivos;Pintura impermeable
+114;Construcción;Adhesivos;Sellador grietas
+115;Construcción;Adhesivos;Pegamento industrial
+116;Construcción;Adhesivos;Sellador estructural
+117;Construcción;Adhesivos;Cinta construcción
+118;Construcción;Adhesivos;Membrana líquida
+119;Construcción;Adhesivos;Kit adhesivos
+120;Construcción;Adhesivos;Reparador concreto
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Carpintería;Maderas;Madera pino cepillado
+2;Carpintería;Maderas;Madera pino bruto
+3;Carpintería;Maderas;MDF 15mm
+4;Carpintería;Maderas;MDF 18mm
+5;Carpintería;Maderas;Terciado estructural
+6;Carpintería;Maderas;Terciado común
+7;Carpintería;Maderas;OSB 9mm
+8;Carpintería;Maderas;OSB 12mm
+9;Carpintería;Maderas;Madera roble
+10;Carpintería;Maderas;Madera cedro
+11;Carpintería;Maderas;Madera haya
+12;Carpintería;Maderas;Listón madera 2x2
+13;Carpintería;Maderas;Listón madera 2x3
+14;Carpintería;Maderas;Tablero enchapado
+15;Carpintería;Maderas;Tablero melaminico blanco
+16;Carpintería;Maderas;Tablero melaminico negro
+17;Carpintería;Maderas;Tablero melaminico madera
+18;Carpintería;Maderas;Madera reciclada
+19;Carpintería;Maderas;Madera laminada
+20;Carpintería;Maderas;Madera estructural
+21;Carpintería;Maderas;Viga madera
+22;Carpintería;Maderas;Tabla madera seca
+23;Carpintería;Maderas;Tabla madera verde
+24;Carpintería;Maderas;Bloque madera industrial
+25;Carpintería;Maderas;Kit madera básica
+;;;
+;;;
+HERRAMIENTAS MANUALES;;;
+ID;Categoría;Subcategoría;Objeto
+26;Carpintería;Herramientas;Serrucho madera
+27;Carpintería;Herramientas;Sierra manual
+28;Carpintería;Herramientas;Formón
+29;Carpintería;Herramientas;Cincel madera
+30;Carpintería;Herramientas;Martillo carpintero
+31;Carpintería;Herramientas;Escuadra metálica
+32;Carpintería;Herramientas;Nivel burbuja
+33;Carpintería;Herramientas;Metro plegable
+34;Carpintería;Herramientas;Flexómetro
+35;Carpintería;Herramientas;Lijadora manual
+36;Carpintería;Herramientas;Cepillo madera
+37;Carpintería;Herramientas;Gubia
+38;Carpintería;Herramientas;Sierra caladora
+39;Carpintería;Herramientas;Taladro
+40;Carpintería;Herramientas;Destornillador set
+41;Carpintería;Herramientas;Prensa carpintería
+42;Carpintería;Herramientas;Sargento
+43;Carpintería;Herramientas;Gato presión
+44;Carpintería;Herramientas;Escalera madera
+45;Carpintería;Herramientas;Banco trabajo
+46;Carpintería;Herramientas;Cúter profesional
+47;Carpintería;Herramientas;Lápiz carpintero
+48;Carpintería;Herramientas;Cinta medir metálica
+49;Carpintería;Herramientas;Kit herramientas madera
+50;Carpintería;Herramientas;Caja herramientas
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Carpintería;Fijación;Tornillo madera
+52;Carpintería;Fijación;Tornillo autorroscante
+53;Carpintería;Fijación;Clavo acero
+54;Carpintería;Fijación;Clavo sin cabeza
+55;Carpintería;Fijación;Grapa madera
+56;Carpintería;Fijación;Pegamento madera
+57;Carpintería;Fijación;Cola fría
+58;Carpintería;Fijación;Adhesivo poliuretano
+59;Carpintería;Fijación;Tarugo madera
+60;Carpintería;Fijación;Tarugo plástico
+61;Carpintería;Fijación;Bisagra metálica
+62;Carpintería;Fijación;Bisagra piano
+63;Carpintería;Fijación;Corredera cajón
+64;Carpintería;Fijación;Riel telescópico
+65;Carpintería;Fijación;Tirador mueble
+66;Carpintería;Fijación;Manilla puerta
+67;Carpintería;Fijación;Cerradura mueble
+68;Carpintería;Fijación;Candado pequeño
+69;Carpintería;Fijación;Soporte metálico
+70;Carpintería;Fijación;Escuadra refuerzo
+71;Carpintería;Fijación;Pernos madera
+72;Carpintería;Fijación;Tuercas y tornillos kit
+73;Carpintería;Fijación;Kit herrajes muebles
+74;Carpintería;Fijación;Anclaje madera
+75;Carpintería;Fijación;Kit instalación muebles
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Carpintería;Acabados;Barniz madera
+77;Carpintería;Acabados;Barniz brillante
+78;Carpintería;Acabados;Barniz mate
+79;Carpintería;Acabados;Laca transparente
+80;Carpintería;Acabados;Tinte madera
+81;Carpintería;Acabados;Aceite madera
+82;Carpintería;Acabados;Cera madera
+83;Carpintería;Acabados;Sellador madera
+84;Carpintería;Acabados;Pintura madera
+85;Carpintería;Acabados;Esmalte madera
+86;Carpintería;Acabados;Fondo sellador
+87;Carpintería;Acabados;Protector UV madera
+88;Carpintería;Acabados;Impermeabilizante madera
+89;Carpintería;Acabados;Spray barniz
+90;Carpintería;Acabados;Barniz marino
+91;Carpintería;Acabados;Barniz poliuretano
+92;Carpintería;Acabados;Kit acabado madera
+93;Carpintería;Acabados;Pulidor madera
+94;Carpintería;Acabados;Lija fina
+95;Carpintería;Acabados;Lija media
+96;Carpintería;Acabados;Lija gruesa
+97;Carpintería;Acabados;Pasta reparación madera
+98;Carpintería;Acabados;Masilla madera
+99;Carpintería;Acabados;Kit restauración madera
+100;Carpintería;Acabados;Limpia madera
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Carpintería;Accesorios;Rueda mueble
+102;Carpintería;Accesorios;Patas mesa
+103;Carpintería;Accesorios;Bisagra oculta
+104;Carpintería;Accesorios;Sistema corredera
+105;Carpintería;Accesorios;Elevador mueble
+106;Carpintería;Accesorios;Topes goma
+107;Carpintería;Accesorios;Protector esquina
+108;Carpintería;Accesorios;Soporte repisa
+109;Carpintería;Accesorios;Percha madera
+110;Carpintería;Accesorios;Tirador moderno
+111;Carpintería;Accesorios;Kit instalación cocina
+112;Carpintería;Accesorios;Kit instalación closet
+113;Carpintería;Accesorios;Kit armado muebles
+114;Carpintería;Accesorios;Adhesivos montaje
+115;Carpintería;Accesorios;Anclajes pared
+116;Carpintería;Accesorios;Tornillos ocultos
+117;Carpintería;Accesorios;Conectores madera
+118;Carpintería;Accesorios;Unión metálica
+119;Carpintería;Accesorios;Kit reparación muebles
+120;Carpintería;Accesorios;Sistema modular muebles
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Jardín;Herramientas;Pala jardín
+2;Jardín;Herramientas;Pala punta
+3;Jardín;Herramientas;Rastrillo metálico
+4;Jardín;Herramientas;Rastrillo plástico
+5;Jardín;Herramientas;Tijera poda
+6;Jardín;Herramientas;Tijera seto
+7;Jardín;Herramientas;Azadón
+8;Jardín;Herramientas;Escardilla
+9;Jardín;Herramientas;Carretilla jardín
+10;Jardín;Herramientas;Palita trasplante
+11;Jardín;Herramientas;Horquilla jardín
+12;Jardín;Herramientas;Machete jardín
+13;Jardín;Herramientas;Serrucho poda
+14;Jardín;Herramientas;Desmalezador
+15;Jardín;Herramientas;Guantes jardín
+16;Jardín;Herramientas;Rodillera jardín
+17;Jardín;Herramientas;Delantal jardín
+18;Jardín;Herramientas;Kit herramientas jardín
+19;Jardín;Herramientas;Cuchillo injerto
+20;Jardín;Herramientas;Cultivador manual
+21;Jardín;Herramientas;Aireador suelo
+22;Jardín;Herramientas;Podadora manual
+23;Jardín;Herramientas;Tijera eléctrica
+24;Jardín;Herramientas;Soplador hojas
+25;Jardín;Herramientas;Kit mantenimiento jardín
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Jardín;Riego;Manguera jardín
+27;Jardín;Riego;Manguera extensible
+28;Jardín;Riego;Aspersor giratorio
+29;Jardín;Riego;Aspersor fijo
+30;Jardín;Riego;Goteo riego kit
+31;Jardín;Riego;Cinta riego
+32;Jardín;Riego;Programador riego
+33;Jardín;Riego;Conector manguera
+34;Jardín;Riego;Pistola riego
+35;Jardín;Riego;Boquilla regulable
+36;Jardín;Riego;Llave paso agua jardín
+37;Jardín;Riego;Temporizador riego
+38;Jardín;Riego;Filtro agua jardín
+39;Jardín;Riego;Bomba agua pequeña
+40;Jardín;Riego;Kit riego automático
+41;Jardín;Riego;Microaspersor
+42;Jardín;Riego;Nebulizador jardín
+43;Jardín;Riego;Depósito agua
+44;Jardín;Riego;Bidón agua
+45;Jardín;Riego;Tanque riego
+46;Jardín;Riego;Válvula riego
+47;Jardín;Riego;Tubo riego
+48;Jardín;Riego;Codo riego
+49;Jardín;Riego;Kit conexiones riego
+50;Jardín;Riego;Sistema riego completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Jardín;Plantas;Semillas césped
+52;Jardín;Plantas;Semillas flores
+53;Jardín;Plantas;Semillas tomate
+54;Jardín;Plantas;Semillas lechuga
+55;Jardín;Plantas;Semillas zanahoria
+56;Jardín;Plantas;Plantas ornamentales
+57;Jardín;Plantas;Plantas interior
+58;Jardín;Plantas;Plantas exterior
+59;Jardín;Plantas;Cactus
+60;Jardín;Plantas;Suculentas
+61;Jardín;Plantas;Arbustos
+62;Jardín;Plantas;Árbol frutal
+63;Jardín;Plantas;Hierbas aromáticas
+64;Jardín;Plantas;Albahaca
+65;Jardín;Plantas;Romero
+66;Jardín;Plantas;Menta
+67;Jardín;Plantas;Perejil
+68;Jardín;Plantas;Tierra de hojas
+69;Jardín;Plantas;Tierra abonada
+70;Jardín;Plantas;Compost
+71;Jardín;Plantas;Macetero plástico
+72;Jardín;Plantas;Macetero cerámica
+73;Jardín;Plantas;Macetero colgante
+74;Jardín;Plantas;Bandeja germinación
+75;Jardín;Plantas;Kit siembra
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Jardín;Fertilizantes;Fertilizante líquido
+77;Jardín;Fertilizantes;Fertilizante granulado
+78;Jardín;Fertilizantes;Abono orgánico
+79;Jardín;Fertilizantes;Compost natural
+80;Jardín;Fertilizantes;Humus lombriz
+81;Jardín;Fertilizantes;Corrector suelo
+82;Jardín;Fertilizantes;Cal agrícola
+83;Jardín;Fertilizantes;Nutriente plantas
+84;Jardín;Fertilizantes;Estimulante raíz
+85;Jardín;Fertilizantes;Insecticida jardín
+86;Jardín;Fertilizantes;Fungicida
+87;Jardín;Fertilizantes;Herbicida
+88;Jardín;Fertilizantes;Control plagas
+89;Jardín;Fertilizantes;Spray insectos
+90;Jardín;Fertilizantes;Trampa insectos
+91;Jardín;Fertilizantes;Fertilizante césped
+92;Jardín;Fertilizantes;Kit cuidado plantas
+93;Jardín;Fertilizantes;Tierra fertilizada
+94;Jardín;Fertilizantes;Bio fertilizante
+95;Jardín;Fertilizantes;Nutriente foliar
+96;Jardín;Fertilizantes;Kit jardín completo
+97;Jardín;Fertilizantes;Arena drenaje
+98;Jardín;Fertilizantes;Perlita
+99;Jardín;Fertilizantes;Vermiculita
+100;Jardín;Fertilizantes;Sustrato universal
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Jardín;Accesorios;Macetero grande
+102;Jardín;Accesorios;Macetero pequeño
+103;Jardín;Accesorios;Jardín vertical
+104;Jardín;Accesorios;Decoración jardín
+105;Jardín;Accesorios;Fuente agua
+106;Jardín;Accesorios;Luz jardín solar
+107;Jardín;Accesorios;Malla sombra
+108;Jardín;Accesorios;Cerca jardín
+109;Jardín;Accesorios;Invernadero pequeño
+110;Jardín;Accesorios;Kit huerto
+111;Jardín;Accesorios;Herramienta trasplante
+112;Jardín;Accesorios;Pulverizador
+113;Jardín;Accesorios;Regadera
+114;Jardín;Accesorios;Sistema drenaje
+115;Jardín;Accesorios;Piedra decorativa
+116;Jardín;Accesorios;Corteza decorativa
+117;Jardín;Accesorios;Bordes jardín
+118;Jardín;Accesorios;Kit decoración exterior
+119;Jardín;Accesorios;Banco jardín
+120;Jardín;Accesorios;Kit jardín completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Automóvil;Motor;Aceite motor 5W30
+2;Automóvil;Motor;Aceite motor 10W40
+3;Automóvil;Motor;Filtro aceite
+4;Automóvil;Motor;Filtro aire
+5;Automóvil;Motor;Filtro combustible
+6;Automóvil;Motor;Bujía encendido
+7;Automóvil;Motor;Correa distribución
+8;Automóvil;Motor;Correa accesorios
+9;Automóvil;Motor;Refrigerante motor
+10;Automóvil;Motor;Líquido radiador
+11;Automóvil;Motor;Junta motor
+12;Automóvil;Motor;Termostato motor
+13;Automóvil;Motor;Bomba agua
+14;Automóvil;Motor;Sensor temperatura
+15;Automóvil;Motor;Sensor oxígeno
+16;Automóvil;Motor;Inyectores combustible
+17;Automóvil;Motor;Kit afinamiento
+18;Automóvil;Motor;Limpiador inyectores
+19;Automóvil;Motor;Aceite transmisión
+20;Automóvil;Motor;Kit motor básico
+21;Automóvil;Motor;Sellador motor
+22;Automóvil;Motor;Lubricante motor
+23;Automóvil;Motor;Aditivo combustible
+24;Automóvil;Motor;Tapón aceite
+25;Automóvil;Motor;Kit mantenimiento motor
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Automóvil;Frenos;Pastillas freno
+27;Automóvil;Frenos;Discos freno
+28;Automóvil;Frenos;Líquido frenos DOT3
+29;Automóvil;Frenos;Líquido frenos DOT4
+30;Automóvil;Frenos;Balatas freno
+31;Automóvil;Frenos;Cilindro freno
+32;Automóvil;Frenos;Bomba freno
+33;Automóvil;Frenos;Manguera freno
+34;Automóvil;Frenos;Sensor ABS
+35;Automóvil;Frenos;Kit frenos completo
+36;Automóvil;Frenos;Frenos delanteros
+37;Automóvil;Frenos;Frenos traseros
+38;Automóvil;Frenos;Disco ventilado
+39;Automóvil;Frenos;Kit reparación freno
+40;Automóvil;Frenos;Lubricante freno
+41;Automóvil;Frenos;Pinza freno
+42;Automóvil;Frenos;Juego pastillas
+43;Automóvil;Frenos;Kit cambio freno
+44;Automóvil;Frenos;Purga frenos kit
+45;Automóvil;Frenos;Fluido hidráulico
+46;Automóvil;Frenos;Sensor desgaste
+47;Automóvil;Frenos;Ajustador freno
+48;Automóvil;Frenos;Tornillo disco
+49;Automóvil;Frenos;Kit ABS
+50;Automóvil;Frenos;Kit seguridad freno
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Automóvil;Accesorios;Limpiaparabrisas
+52;Automóvil;Accesorios;Líquido limpiaparabrisas
+53;Automóvil;Accesorios;Foco delantero
+54;Automóvil;Accesorios;Foco trasero
+55;Automóvil;Accesorios;Espejo lateral
+56;Automóvil;Accesorios;Espejo retrovisor
+57;Automóvil;Accesorios;Cubreasientos
+58;Automóvil;Accesorios;Alfombrillas auto
+59;Automóvil;Accesorios;Cubre volante
+60;Automóvil;Accesorios;Cargador auto USB
+61;Automóvil;Accesorios;Soporte celular auto
+62;Automóvil;Accesorios;GPS auto
+63;Automóvil;Accesorios;Cámara retroceso
+64;Automóvil;Accesorios;Sensor estacionamiento
+65;Automóvil;Accesorios;Kit audio auto
+66;Automóvil;Accesorios;Parlantes auto
+67;Automóvil;Accesorios;Amplificador auto
+68;Automóvil;Accesorios;Antena auto
+69;Automóvil;Accesorios;Cubre maletero
+70;Automóvil;Accesorios;Organizadores auto
+71;Automóvil;Accesorios;Kit emergencia auto
+72;Automóvil;Accesorios;Triángulo seguridad
+73;Automóvil;Accesorios;Chaleco reflectante
+74;Automóvil;Accesorios;Kit limpieza auto
+75;Automóvil;Accesorios;Perfume auto
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Automóvil;Herramientas;Gata hidráulica
+77;Automóvil;Herramientas;Gata mecánica
+78;Automóvil;Herramientas;Llave cruz
+79;Automóvil;Herramientas;Juego llaves
+80;Automóvil;Herramientas;Destornillador auto
+81;Automóvil;Herramientas;Alicate mecánico
+82;Automóvil;Herramientas;Compresor aire
+83;Automóvil;Herramientas;Inflador neumáticos
+84;Automóvil;Herramientas;Manómetro presión
+85;Automóvil;Herramientas;Kit reparación neumáticos
+86;Automóvil;Herramientas;Llave torque
+87;Automóvil;Herramientas;Extractor tornillos
+88;Automóvil;Herramientas;Kit herramientas auto
+89;Automóvil;Herramientas;Cables batería
+90;Automóvil;Herramientas;Multímetro auto
+91;Automóvil;Herramientas;Tester eléctrico
+92;Automóvil;Herramientas;Linterna auto
+93;Automóvil;Herramientas;Elevador auto
+94;Automóvil;Herramientas;Caballetes soporte
+95;Automóvil;Herramientas;Kit mecánico auto
+96;Automóvil;Herramientas;Lubricante penetrante
+97;Automóvil;Herramientas;Desengrasante auto
+98;Automóvil;Herramientas;Spray limpieza motor
+99;Automóvil;Herramientas;Kit lavado auto
+100;Automóvil;Herramientas;Caja herramientas auto
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Automóvil;Repuestos;Amortiguador
+102;Automóvil;Repuestos;Resorte suspensión
+103;Automóvil;Repuestos;Brazo suspensión
+104;Automóvil;Repuestos;Batería auto
+105;Automóvil;Repuestos;Alternador
+106;Automóvil;Repuestos;Motor de arranque
+107;Automóvil;Repuestos;Radiador
+108;Automóvil;Repuestos;Manguera radiador
+109;Automóvil;Repuestos;Ventilador motor
+110;Automóvil;Repuestos;Sensor velocidad
+111;Automóvil;Repuestos;Fusibles auto
+112;Automóvil;Repuestos;Relay auto
+113;Automóvil;Repuestos;Bombilla auto
+114;Automóvil;Repuestos;Cableado eléctrico
+115;Automóvil;Repuestos;Kit suspensión
+116;Automóvil;Repuestos;Kit motor básico
+117;Automóvil;Repuestos;Kit transmisión
+118;Automóvil;Repuestos;Kit eléctrico auto
+119;Automóvil;Repuestos;Kit reparación general
+120;Automóvil;Repuestos;Sistema completo auto
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Motocicleta;Motor;Aceite moto 10W40
+2;Motocicleta;Motor;Aceite moto 20W50
+3;Motocicleta;Motor;Filtro aceite moto
+4;Motocicleta;Motor;Filtro aire moto
+5;Motocicleta;Motor;Bujía moto
+6;Motocicleta;Motor;Kit afinamiento moto
+7;Motocicleta;Motor;Kit pistón
+8;Motocicleta;Motor;Cilindro moto
+9;Motocicleta;Motor;Junta motor
+10;Motocicleta;Motor;Cadena distribución
+11;Motocicleta;Motor;Tensor cadena
+12;Motocicleta;Motor;Carburador moto
+13;Motocicleta;Motor;Inyector moto
+14;Motocicleta;Motor;Sensor temperatura
+15;Motocicleta;Motor;Radiador moto
+16;Motocicleta;Motor;Bomba aceite
+17;Motocicleta;Motor;Tapón aceite
+18;Motocicleta;Motor;Kit reparación motor
+19;Motocicleta;Motor;Sellador motor
+20;Motocicleta;Motor;Lubricante motor
+21;Motocicleta;Motor;Aditivo combustible
+22;Motocicleta;Motor;Limpiador carburador
+23;Motocicleta;Motor;Kit pistón completo
+24;Motocicleta;Motor;Kit motor básico
+25;Motocicleta;Motor;Sistema motor completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Motocicleta;Frenos;Pastillas freno moto
+27;Motocicleta;Frenos;Disco freno moto
+28;Motocicleta;Frenos;Líquido freno DOT4
+29;Motocicleta;Frenos;Balata freno moto
+30;Motocicleta;Frenos;Cilindro freno
+31;Motocicleta;Frenos;Bomba freno
+32;Motocicleta;Frenos;Manguera freno
+33;Motocicleta;Frenos;Pinza freno
+34;Motocicleta;Frenos;Sensor ABS moto
+35;Motocicleta;Frenos;Kit frenos completo
+36;Motocicleta;Frenos;Disco ventilado moto
+37;Motocicleta;Frenos;Zapata freno
+38;Motocicleta;Frenos;Kit reparación freno
+39;Motocicleta;Frenos;Ajustador freno
+40;Motocicleta;Frenos;Lubricante freno
+41;Motocicleta;Frenos;Sensor desgaste
+42;Motocicleta;Frenos;Tornillo disco
+43;Motocicleta;Frenos;Kit ABS moto
+44;Motocicleta;Frenos;Fluido hidráulico
+45;Motocicleta;Frenos;Kit seguridad freno
+46;Motocicleta;Frenos;Palanca freno
+47;Motocicleta;Frenos;Manilla freno
+48;Motocicleta;Frenos;Kit pastillas
+49;Motocicleta;Frenos;Kit mantenimiento freno
+50;Motocicleta;Frenos;Sistema freno completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Motocicleta;Accesorios;Casco moto integral
+52;Motocicleta;Accesorios;Casco abierto
+53;Motocicleta;Accesorios;Guantes moto
+54;Motocicleta;Accesorios;Chaqueta moto
+55;Motocicleta;Accesorios;Pantalón moto
+56;Motocicleta;Accesorios;Botas moto
+57;Motocicleta;Accesorios;Impermeable moto
+58;Motocicleta;Accesorios;Maletero moto
+59;Motocicleta;Accesorios;Baúl trasero
+60;Motocicleta;Accesorios;Soporte celular moto
+61;Motocicleta;Accesorios;Cargador USB moto
+62;Motocicleta;Accesorios;Espejo moto
+63;Motocicleta;Accesorios;Luz LED moto
+64;Motocicleta;Accesorios;Intermitente moto
+65;Motocicleta;Accesorios;Alarma moto
+66;Motocicleta;Accesorios;Candado disco
+67;Motocicleta;Accesorios;Cadena seguridad
+68;Motocicleta;Accesorios;Funda moto
+69;Motocicleta;Accesorios;Parabrisas moto
+70;Motocicleta;Accesorios;Protector motor
+71;Motocicleta;Accesorios;Kit viaje moto
+72;Motocicleta;Accesorios;Kit emergencia moto
+73;Motocicleta;Accesorios;Inflador portátil
+74;Motocicleta;Accesorios;Kit limpieza moto
+75;Motocicleta;Accesorios;Lubricante cadena
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Motocicleta;Herramientas;Llave bujía
+77;Motocicleta;Herramientas;Llave inglesa
+78;Motocicleta;Herramientas;Juego llaves Allen
+79;Motocicleta;Herramientas;Destornillador moto
+80;Motocicleta;Herramientas;Gata moto
+81;Motocicleta;Herramientas;Compresor portátil
+82;Motocicleta;Herramientas;Inflador neumáticos
+83;Motocicleta;Herramientas;Manómetro
+84;Motocicleta;Herramientas;Kit reparación neumáticos
+85;Motocicleta;Herramientas;Llave torque
+86;Motocicleta;Herramientas;Extractor tornillos
+87;Motocicleta;Herramientas;Multímetro moto
+88;Motocicleta;Herramientas;Tester eléctrico
+89;Motocicleta;Herramientas;Cables batería
+90;Motocicleta;Herramientas;Linterna moto
+91;Motocicleta;Herramientas;Kit herramientas moto
+92;Motocicleta;Herramientas;Spray lubricante
+93;Motocicleta;Herramientas;Desengrasante moto
+94;Motocicleta;Herramientas;Kit lavado moto
+95;Motocicleta;Herramientas;Elevador moto
+96;Motocicleta;Herramientas;Caballete moto
+97;Motocicleta;Herramientas;Llave cadena
+98;Motocicleta;Herramientas;Kit mecánico moto
+99;Motocicleta;Herramientas;Caja herramientas moto
+100;Motocicleta;Herramientas;Kit mantenimiento
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Motocicleta;Repuestos;Cadena moto
+102;Motocicleta;Repuestos;Piñón moto
+103;Motocicleta;Repuestos;Corona moto
+104;Motocicleta;Repuestos;Amortiguador moto
+105;Motocicleta;Repuestos;Horquilla moto
+106;Motocicleta;Repuestos;Batería moto
+107;Motocicleta;Repuestos;Alternador moto
+108;Motocicleta;Repuestos;Regulador voltaje
+109;Motocicleta;Repuestos;Bobina encendido
+110;Motocicleta;Repuestos;Faro delantero
+111;Motocicleta;Repuestos;Luz trasera
+112;Motocicleta;Repuestos;Fusibles moto
+113;Motocicleta;Repuestos;Relay moto
+114;Motocicleta;Repuestos;Cableado moto
+115;Motocicleta;Repuestos;Espejo repuesto
+116;Motocicleta;Repuestos;Manilla embrague
+117;Motocicleta;Repuestos;Palanca cambio
+118;Motocicleta;Repuestos;Kit suspensión
+119;Motocicleta;Repuestos;Kit eléctrico moto
+120;Motocicleta;Repuestos;Sistema completo moto
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Cocina;Utensilios;Cuchillo chef
+2;Cocina;Utensilios;Cuchillo pan
+3;Cocina;Utensilios;Cuchillo verdura
+4;Cocina;Utensilios;Tabla picar madera
+5;Cocina;Utensilios;Tabla picar plástico
+6;Cocina;Utensilios;Sartén antiadherente
+7;Cocina;Utensilios;Olla acero inoxidable
+8;Cocina;Utensilios;Olla presión
+9;Cocina;Utensilios;Espátula cocina
+10;Cocina;Utensilios;Cucharón sopa
+11;Cocina;Utensilios;Batidor manual
+12;Cocina;Utensilios;Colador metálico
+13;Cocina;Utensilios;Rallador
+14;Cocina;Utensilios;Pelador verduras
+15;Cocina;Utensilios;Pinzas cocina
+16;Cocina;Utensilios;Termómetro cocina
+17;Cocina;Utensilios;Set cuchillos
+18;Cocina;Utensilios;Set ollas
+19;Cocina;Utensilios;Set sartenes
+20;Cocina;Utensilios;Juego cucharas medidoras
+21;Cocina;Utensilios;Juego tazas medidoras
+22;Cocina;Utensilios;Mortero
+23;Cocina;Utensilios;Abrelatas
+24;Cocina;Utensilios;Tijera cocina
+25;Cocina;Utensilios;Kit cocina básico
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Cocina;Electrodomésticos;Licuadora
+27;Cocina;Electrodomésticos;Batidora eléctrica
+28;Cocina;Electrodomésticos;Procesador alimentos
+29;Cocina;Electrodomésticos;Horno microondas
+30;Cocina;Electrodomésticos;Horno eléctrico
+31;Cocina;Electrodomésticos;Tostadora
+32;Cocina;Electrodomésticos;Cafetera
+33;Cocina;Electrodomésticos;Hervidor eléctrico
+34;Cocina;Electrodomésticos;Arrocera
+35;Cocina;Electrodomésticos;Freidora aire
+36;Cocina;Electrodomésticos;Grill eléctrico
+37;Cocina;Electrodomésticos;Extractor jugo
+38;Cocina;Electrodomésticos;Máquina pan
+39;Cocina;Electrodomésticos;Cocina eléctrica
+40;Cocina;Electrodomésticos;Cocina gas
+41;Cocina;Electrodomésticos;Campana cocina
+42;Cocina;Electrodomésticos;Refrigerador
+43;Cocina;Electrodomésticos;Congelador
+44;Cocina;Electrodomésticos;Lavavajillas
+45;Cocina;Electrodomésticos;Mini horno
+46;Cocina;Electrodomésticos;Yogurtera
+47;Cocina;Electrodomésticos;Picadora eléctrica
+48;Cocina;Electrodomésticos;Mixer
+49;Cocina;Electrodomésticos;Vaporizador alimentos
+50;Cocina;Electrodomésticos;Kit cocina eléctrica
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Cocina;Almacenamiento;Recipiente plástico
+52;Cocina;Almacenamiento;Recipiente vidrio
+53;Cocina;Almacenamiento;Frasco hermético
+54;Cocina;Almacenamiento;Contenedor alimentos
+55;Cocina;Almacenamiento;Tupper rectangular
+56;Cocina;Almacenamiento;Tupper redondo
+57;Cocina;Almacenamiento;Porta alimentos
+58;Cocina;Almacenamiento;Botella agua
+59;Cocina;Almacenamiento;Termo comida
+60;Cocina;Almacenamiento;Dispensador cereales
+61;Cocina;Almacenamiento;Organizadores cocina
+62;Cocina;Almacenamiento;Porta especias
+63;Cocina;Almacenamiento;Frascos especias
+64;Cocina;Almacenamiento;Bandeja cocina
+65;Cocina;Almacenamiento;Caja alimentos
+66;Cocina;Almacenamiento;Bolsa hermética
+67;Cocina;Almacenamiento;Film plástico
+68;Cocina;Almacenamiento;Papel aluminio
+69;Cocina;Almacenamiento;Papel encerado
+70;Cocina;Almacenamiento;Estante cocina
+71;Cocina;Almacenamiento;Repisa cocina
+72;Cocina;Almacenamiento;Organizador cajón
+73;Cocina;Almacenamiento;Porta cubiertos
+74;Cocina;Almacenamiento;Contenedor congelador
+75;Cocina;Almacenamiento;Kit almacenamiento cocina
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Cocina;Mesa;Cuchara sopa
+77;Cocina;Mesa;Cuchara té
+78;Cocina;Mesa;Tenedor
+79;Cocina;Mesa;Cuchillo mesa
+80;Cocina;Mesa;Plato grande
+81;Cocina;Mesa;Plato pequeño
+82;Cocina;Mesa;Plato hondo
+83;Cocina;Mesa;Vaso vidrio
+84;Cocina;Mesa;Copa vino
+85;Cocina;Mesa;Copa agua
+86;Cocina;Mesa;Mantel
+87;Cocina;Mesa;Individual mesa
+88;Cocina;Mesa;Servilletas
+89;Cocina;Mesa;Bandeja servir
+90;Cocina;Mesa;Juego cubiertos
+91;Cocina;Mesa;Set vajilla
+92;Cocina;Mesa;Taza café
+93;Cocina;Mesa;Tazón
+94;Cocina;Mesa;Azucarero
+95;Cocina;Mesa;Salero
+96;Cocina;Mesa;Pimentero
+97;Cocina;Mesa;Jarra agua
+98;Cocina;Mesa;Termo bebida
+99;Cocina;Mesa;Kit mesa completo
+100;Cocina;Mesa;Porta cubiertos mesa
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Cocina;Limpieza;Esponja cocina
+102;Cocina;Limpieza;Lavaloza
+103;Cocina;Limpieza;Detergente platos
+104;Cocina;Limpieza;Cepillo platos
+105;Cocina;Limpieza;Guantes cocina
+106;Cocina;Limpieza;Paño microfibra
+107;Cocina;Limpieza;Desengrasante
+108;Cocina;Limpieza;Limpiador horno
+109;Cocina;Limpieza;Limpiador cocina
+110;Cocina;Limpieza;Limpiador acero
+111;Cocina;Limpieza;Bolsas basura
+112;Cocina;Limpieza;Basurero cocina
+113;Cocina;Limpieza;Fregadero kit
+114;Cocina;Limpieza;Cepillo fregadero
+115;Cocina;Limpieza;Trapo cocina
+116;Cocina;Limpieza;Desinfectante cocina
+117;Cocina;Limpieza;Aroma cocina
+118;Cocina;Limpieza;Kit limpieza cocina
+119;Cocina;Limpieza;Removedor grasa
+120;Cocina;Limpieza;Sistema limpieza cocina
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Dormitorio;Ropa de cama;Sábanas 1 plaza
+27;Dormitorio;Ropa de cama;Sábanas 2 plazas
+28;Dormitorio;Ropa de cama;Sábanas king
+29;Dormitorio;Ropa de cama;Funda almohada
+30;Dormitorio;Ropa de cama;Funda colchón
+31;Dormitorio;Ropa de cama;Plumón liviano
+32;Dormitorio;Ropa de cama;Plumón grueso
+33;Dormitorio;Ropa de cama;Edredón
+34;Dormitorio;Ropa de cama;Cubrecama
+35;Dormitorio;Ropa de cama;Manta polar
+36;Dormitorio;Ropa de cama;Frazada
+37;Dormitorio;Ropa de cama;Cojines decorativos
+38;Dormitorio;Ropa de cama;Almohada firme
+39;Dormitorio;Ropa de cama;Almohada suave
+40;Dormitorio;Ropa de cama;Almohada memory foam
+41;Dormitorio;Ropa de cama;Protector colchón
+42;Dormitorio;Ropa de cama;Juego cama completo
+43;Dormitorio;Ropa de cama;Sábana térmica
+44;Dormitorio;Ropa de cama;Cobertor verano
+45;Dormitorio;Ropa de cama;Cobertor invierno
+46;Dormitorio;Ropa de cama;Funda plumón
+47;Dormitorio;Ropa de cama;Kit ropa cama
+48;Dormitorio;Ropa de cama;Almohada ergonómica
+49;Dormitorio;Ropa de cama;Protector almohada
+50;Dormitorio;Ropa de cama;Set dormitorio textil
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Dormitorio;Organización;Caja almacenamiento
+52;Dormitorio;Organización;Caja ropa
+53;Dormitorio;Organización;Caja zapatos
+54;Dormitorio;Organización;Organizadores cajón
+55;Dormitorio;Organización;Separadores closet
+56;Dormitorio;Organización;Perchas madera
+57;Dormitorio;Organización;Perchas plástico
+58;Dormitorio;Organización;Perchas metálicas
+59;Dormitorio;Organización;Bolsa al vacío ropa
+60;Dormitorio;Organización;Maleta viaje
+61;Dormitorio;Organización;Mochila organizadora
+62;Dormitorio;Organización;Cesto ropa sucia
+63;Dormitorio;Organización;Canasto ropa
+64;Dormitorio;Organización;Organizadores zapatos
+65;Dormitorio;Organización;Estante closet
+66;Dormitorio;Organización;Repisa modular
+67;Dormitorio;Organización;Rack ropa
+68;Dormitorio;Organización;Armario auxiliar
+69;Dormitorio;Organización;Caja organizadora grande
+70;Dormitorio;Organización;Caja organizadora pequeña
+71;Dormitorio;Organización;Kit organización closet
+72;Dormitorio;Organización;Porta accesorios
+73;Dormitorio;Organización;Organizador joyas
+74;Dormitorio;Organización;Cajón divisores
+75;Dormitorio;Organización;Sistema closet modular
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Dormitorio;Iluminación;Lámpara mesa noche
+77;Dormitorio;Iluminación;Lámpara pie
+78;Dormitorio;Iluminación;Lámpara techo
+79;Dormitorio;Iluminación;Luz LED tira
+80;Dormitorio;Iluminación;Luz LED regulable
+81;Dormitorio;Iluminación;Ampolleta LED
+82;Dormitorio;Iluminación;Luz nocturna
+83;Dormitorio;Iluminación;Lámpara lectura
+84;Dormitorio;Iluminación;Lámpara decorativa
+85;Dormitorio;Iluminación;Luz cálida dormitorio
+86;Dormitorio;Iluminación;Luz fría dormitorio
+87;Dormitorio;Iluminación;Interruptor inteligente
+88;Dormitorio;Iluminación;Control luz remoto
+89;Dormitorio;Iluminación;Foco inteligente
+90;Dormitorio;Iluminación;Lámpara USB
+91;Dormitorio;Iluminación;Lámpara táctil
+92;Dormitorio;Iluminación;Lámpara infantil
+93;Dormitorio;Iluminación;Luz ambiental
+94;Dormitorio;Iluminación;Kit iluminación dormitorio
+95;Dormitorio;Iluminación;Aplique pared
+96;Dormitorio;Iluminación;Lámpara escritorio
+97;Dormitorio;Iluminación;Luz RGB dormitorio
+98;Dormitorio;Iluminación;Sensor movimiento luz
+99;Dormitorio;Iluminación;Dimmer luz
+100;Dormitorio;Iluminación;Sistema iluminación smart
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Dormitorio;Limpieza;Aspiradora
+102;Dormitorio;Limpieza;Escoba
+103;Dormitorio;Limpieza;Recogedor
+104;Dormitorio;Limpieza;Plumero
+105;Dormitorio;Limpieza;Limpiador muebles
+106;Dormitorio;Limpieza;Desinfectante ambiente
+107;Dormitorio;Limpieza;Ambientador
+108;Dormitorio;Limpieza;Spray aromatizante
+109;Dormitorio;Limpieza;Limpiador polvo
+110;Dormitorio;Limpieza;Kit limpieza dormitorio
+111;Dormitorio;Limpieza;Bolsas basura
+112;Dormitorio;Limpieza;Cesto basura
+113;Dormitorio;Limpieza;Aspiradora mano
+114;Dormitorio;Limpieza;Rodillo pelusa
+115;Dormitorio;Limpieza;Paño microfibra
+116;Dormitorio;Limpieza;Limpiador telas
+117;Dormitorio;Limpieza;Protector colchón
+118;Dormitorio;Limpieza;Spray anti ácaros
+119;Dormitorio;Limpieza;Kit higiene dormitorio
+120;Dormitorio;Limpieza;Sistema limpieza hogar
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Baño;Sanitarios;Inodoro estándar
+2;Baño;Sanitarios;Inodoro ahorrador agua
+3;Baño;Sanitarios;Tapa inodoro
+4;Baño;Sanitarios;Lavamanos
+5;Baño;Sanitarios;Lavamanos pedestal
+6;Baño;Sanitarios;Lavamanos empotrado
+7;Baño;Sanitarios;Bidet
+8;Baño;Sanitarios;Fluxómetro
+9;Baño;Sanitarios;Cisternas WC
+10;Baño;Sanitarios;Kit instalación WC
+11;Baño;Sanitarios;Sellos sanitarios
+12;Baño;Sanitarios;Válvula descarga
+13;Baño;Sanitarios;Asiento acolchado WC
+14;Baño;Sanitarios;Inodoro compacto
+15;Baño;Sanitarios;Lavamanos doble
+16;Baño;Sanitarios;Sistema ahorro agua
+17;Baño;Sanitarios;Accesorios WC
+18;Baño;Sanitarios;Conector sanitario
+19;Baño;Sanitarios;Kit reparación WC
+20;Baño;Sanitarios;Tubería sanitaria
+21;Baño;Sanitarios;Trampa agua
+22;Baño;Sanitarios;Junta goma WC
+23;Baño;Sanitarios;Tornillos WC
+24;Baño;Sanitarios;Kit sanitario completo
+25;Baño;Sanitarios;Sistema baño completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Baño;Duchas;Ducha teléfono
+27;Baño;Duchas;Ducha fija
+28;Baño;Duchas;Ducha lluvia
+29;Baño;Duchas;Brazo ducha
+30;Baño;Duchas;Mezclador ducha
+31;Baño;Duchas;Grifería lavamanos
+32;Baño;Duchas;Grifo ducha
+33;Baño;Duchas;Llave paso agua
+34;Baño;Duchas;Válvula ducha
+35;Baño;Duchas;Flexo ducha
+36;Baño;Duchas;Cabezal ducha
+37;Baño;Duchas;Kit ducha completo
+38;Baño;Duchas;Hidromasaje ducha
+39;Baño;Duchas;Cabina ducha
+40;Baño;Duchas;Cortina ducha
+41;Baño;Duchas;Barra cortina
+42;Baño;Duchas;Soporte ducha
+43;Baño;Duchas;Ducha eléctrica
+44;Baño;Duchas;Regulador presión
+45;Baño;Duchas;Filtro agua ducha
+46;Baño;Duchas;Ducha ahorradora
+47;Baño;Duchas;Kit grifería baño
+48;Baño;Duchas;Conector grifo
+49;Baño;Duchas;Reparador grifería
+50;Baño;Duchas;Sistema ducha completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Baño;Accesorios;Porta jabón
+52;Baño;Accesorios;Dispensador jabón
+53;Baño;Accesorios;Porta cepillo dientes
+54;Baño;Accesorios;Espejo baño
+55;Baño;Accesorios;Espejo LED
+56;Baño;Accesorios;Repisa baño
+57;Baño;Accesorios;Toallero
+58;Baño;Accesorios;Toalla mano
+59;Baño;Accesorios;Toalla baño
+60;Baño;Accesorios;Alfombra baño
+61;Baño;Accesorios;Cortina ducha
+62;Baño;Accesorios;Ganchos baño
+63;Baño;Accesorios;Porta papel higiénico
+64;Baño;Accesorios;Basurero baño
+65;Baño;Accesorios;Organizador baño
+66;Baño;Accesorios;Kit accesorios baño
+67;Baño;Accesorios;Dispensador shampoo
+68;Baño;Accesorios;Porta secador
+69;Baño;Accesorios;Estante ducha
+70;Baño;Accesorios;Escobilla WC
+71;Baño;Accesorios;Soporte accesorios
+72;Baño;Accesorios;Kit higiene baño
+73;Baño;Accesorios;Porta cosméticos
+74;Baño;Accesorios;Caja baño
+75;Baño;Accesorios;Sistema organización baño
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Baño;Limpieza;Limpiador WC
+77;Baño;Limpieza;Desinfectante baño
+78;Baño;Limpieza;Cloro baño
+79;Baño;Limpieza;Antisarro
+80;Baño;Limpieza;Limpiador azulejos
+81;Baño;Limpieza;Limpiador piso baño
+82;Baño;Limpieza;Cepillo baño
+83;Baño;Limpieza;Escobilla WC
+84;Baño;Limpieza;Pastillas WC
+85;Baño;Limpieza;Ambientador baño
+86;Baño;Limpieza;Spray desodorante
+87;Baño;Limpieza;Paño limpieza
+88;Baño;Limpieza;Esponja baño
+89;Baño;Limpieza;Guantes limpieza
+90;Baño;Limpieza;Kit limpieza baño
+91;Baño;Limpieza;Desengrasante baño
+92;Baño;Limpieza;Limpiador vidrio
+93;Baño;Limpieza;Limpia juntas
+94;Baño;Limpieza;Removedor moho
+95;Baño;Limpieza;Sellador juntas
+96;Baño;Limpieza;Cera piso baño
+97;Baño;Limpieza;Desinfectante spray
+98;Baño;Limpieza;Sistema limpieza WC
+99;Baño;Limpieza;Kit higiene baño
+100;Baño;Limpieza;Bolsa basura baño
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Baño;Reparación;Flotador WC
+102;Baño;Reparación;Válvula descarga
+103;Baño;Reparación;Sifón lavamanos
+104;Baño;Reparación;Llave paso agua
+105;Baño;Reparación;Tubo sanitario
+106;Baño;Reparación;Junta goma WC
+107;Baño;Reparación;Sellador silicona
+108;Baño;Reparación;Kit reparación WC
+109;Baño;Reparación;Grifo repuesto
+110;Baño;Reparación;Mezclador repuesto
+111;Baño;Reparación;Tornillos WC
+112;Baño;Reparación;Conector sanitario
+113;Baño;Reparación;Filtro agua
+114;Baño;Reparación;Manguera baño
+115;Baño;Reparación;Kit fontanería baño
+116;Baño;Reparación;Cinta teflón
+117;Baño;Reparación;Reparador fuga
+118;Baño;Reparación;Válvula repuesto
+119;Baño;Reparación;Sistema sanitario
+120;Baño;Reparación;Kit reparación completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Lavandería;Lavado;Lavadora automática
+2;Lavandería;Lavado;Lavadora semi automática
+3;Lavandería;Lavado;Secadora ropa
+4;Lavandería;Lavado;Centro lavado
+5;Lavandería;Lavado;Tina lavado
+6;Lavandería;Lavado;Plancha vapor
+7;Lavandería;Lavado;Plancha seca
+8;Lavandería;Lavado;Tabla planchar
+9;Lavandería;Lavado;Vaporizador ropa
+10;Lavandería;Lavado;Lavadora portátil
+11;Lavandería;Lavado;Kit lavandería
+12;Lavandería;Lavado;Secadora portátil
+13;Lavandería;Lavado;Centrifugadora
+14;Lavandería;Lavado;Lavadora industrial
+15;Lavandería;Lavado;Secadora industrial
+16;Lavandería;Lavado;Kit reparación lavadora
+17;Lavandería;Lavado;Filtro lavadora
+18;Lavandería;Lavado;Manguera lavadora
+19;Lavandería;Lavado;Válvula agua
+20;Lavandería;Lavado;Cable lavadora
+21;Lavandería;Lavado;Base lavadora
+22;Lavandería;Lavado;Soporte secadora
+23;Lavandería;Lavado;Detergente automático
+24;Lavandería;Lavado;Suavizante ropa
+25;Lavandería;Lavado;Sistema lavado completo
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Lavandería;Químicos;Detergente líquido
+27;Lavandería;Químicos;Detergente en polvo
+28;Lavandería;Químicos;Detergente cápsulas
+29;Lavandería;Químicos;Suavizante ropa
+30;Lavandería;Químicos;Quitamanchas
+31;Lavandería;Químicos;Blanqueador ropa
+32;Lavandería;Químicos;Desinfectante ropa
+33;Lavandería;Químicos;Aroma ropa
+34;Lavandería;Químicos;Jabón líquido ropa
+35;Lavandería;Químicos;Jabón barra ropa
+36;Lavandería;Químicos;Limpiador manchas
+37;Lavandería;Químicos;Aditivo lavado
+38;Lavandería;Químicos;Removedor grasa ropa
+39;Lavandería;Químicos;Protector telas
+40;Lavandería;Químicos;Desodorante ropa
+41;Lavandería;Químicos;Neutralizador olores
+42;Lavandería;Químicos;Kit detergentes
+43;Lavandería;Químicos;Limpiador lavadora
+44;Lavandería;Químicos;Pastillas limpieza
+45;Lavandería;Químicos;Desincrustante
+46;Lavandería;Químicos;Desengrasante ropa
+47;Lavandería;Químicos;Suavizante concentrado
+48;Lavandería;Químicos;Detergente ecológico
+49;Lavandería;Químicos;Jabón neutro
+50;Lavandería;Químicos;Sistema lavado químico
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Lavandería;Organización;Cesto ropa sucia
+52;Lavandería;Organización;Canasto ropa
+53;Lavandería;Organización;Bolsa ropa sucia
+54;Lavandería;Organización;Bolsa lavado delicado
+55;Lavandería;Organización;Perchas ropa
+56;Lavandería;Organización;Secador ropa
+57;Lavandería;Organización;Tender ropa
+58;Lavandería;Organización;Cuerda ropa
+59;Lavandería;Organización;Pinzas ropa
+60;Lavandería;Organización;Organizadores lavandería
+61;Lavandería;Organización;Caja ropa limpia
+62;Lavandería;Organización;Estante ropa
+63;Lavandería;Organización;Rack secado
+64;Lavandería;Organización;Bolsa almacenamiento ropa
+65;Lavandería;Organización;Bolsa vacío ropa
+66;Lavandería;Organización;Separador ropa
+67;Lavandería;Organización;Clasificador ropa
+68;Lavandería;Organización;Carro ropa
+69;Lavandería;Organización;Contenedor ropa
+70;Lavandería;Organización;Organizador cajón
+71;Lavandería;Organización;Caja lavandería
+72;Lavandería;Organización;Kit organización ropa
+73;Lavandería;Organización;Porta detergente
+74;Lavandería;Organización;Soporte plancha
+75;Lavandería;Organización;Sistema lavandería hogar
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Lavandería;Herramientas;Plancha industrial
+77;Lavandería;Herramientas;Plancha vapor profesional
+78;Lavandería;Herramientas;Mesa planchado
+79;Lavandería;Herramientas;Spray almidón
+80;Lavandería;Herramientas;Cepillo ropa
+81;Lavandería;Herramientas;Quitapelusas
+82;Lavandería;Herramientas;Rodillo pelusa
+83;Lavandería;Herramientas;Pinzas ropa
+84;Lavandería;Herramientas;Ganchos ropa
+85;Lavandería;Herramientas;Kit reparación ropa
+86;Lavandería;Herramientas;Aguja coser
+87;Lavandería;Herramientas;Hilo costura
+88;Lavandería;Herramientas;Tijera tela
+89;Lavandería;Herramientas;Desmanchador
+90;Lavandería;Herramientas;Lavadora manual
+91;Lavandería;Herramientas;Secadora portátil
+92;Lavandería;Herramientas;Kit planchado
+93;Lavandería;Herramientas;Soporte ropa
+94;Lavandería;Herramientas;Base plancha
+95;Lavandería;Herramientas;Detector humedad ropa
+96;Lavandería;Herramientas;Medidor temperatura plancha
+97;Lavandería;Herramientas;Kit costura básico
+98;Lavandería;Herramientas;Kit lavandería profesional
+99;Lavandería;Herramientas;Caja herramientas lavandería
+100;Lavandería;Herramientas;Sistema planchado completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Lavandería;Cuidado;Suavizante telas
+102;Lavandería;Cuidado;Protector ropa
+103;Lavandería;Cuidado;Impermeabilizante ropa
+104;Lavandería;Cuidado;Desinfectante telas
+105;Lavandería;Cuidado;Aroma ropa
+106;Lavandería;Cuidado;Spray antiarrugas
+107;Lavandería;Cuidado;Kit cuidado ropa
+108;Lavandería;Cuidado;Removedor manchas
+109;Lavandería;Cuidado;Limpiador delicados
+110;Lavandería;Cuidado;Detergente especial
+111;Lavandería;Cuidado;Protector colores
+112;Lavandería;Cuidado;Blanqueador suave
+113;Lavandería;Cuidado;Kit ropa delicada
+114;Lavandería;Cuidado;Bolsa ropa delicada
+115;Lavandería;Cuidado;Lavado en seco kit
+116;Lavandería;Cuidado;Cepillo delicados
+117;Lavandería;Cuidado;Sistema cuidado ropa
+118;Lavandería;Cuidado;Spray protector telas
+119;Lavandería;Cuidado;Kit mantenimiento ropa
+120;Lavandería;Cuidado;Sistema lavandería completo
+;;;
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Electrónica;Dispositivos;Televisor LED
+2;Electrónica;Dispositivos;Televisor Smart TV
+3;Electrónica;Dispositivos;Monitor PC
+4;Electrónica;Dispositivos;Proyector
+5;Electrónica;Dispositivos;Radio portátil
+6;Electrónica;Dispositivos;Radio despertador
+7;Electrónica;Dispositivos;Consola videojuegos
+8;Electrónica;Dispositivos;Cámara seguridad
+9;Electrónica;Dispositivos;Cámara IP
+10;Electrónica;Dispositivos;Tablet
+11;Electrónica;Dispositivos;Smartwatch
+12;Electrónica;Dispositivos;Router WiFi
+13;Electrónica;Dispositivos;Repetidor WiFi
+14;Electrónica;Dispositivos;Decodificador TV
+15;Electrónica;Dispositivos;Sistema sonido
+16;Electrónica;Dispositivos;Parlante Bluetooth
+17;Electrónica;Dispositivos;Parlante inteligente
+18;Electrónica;Dispositivos;Cámara digital
+19;Electrónica;Dispositivos;Cámara acción
+20;Electrónica;Dispositivos;Grabadora audio
+21;Electrónica;Dispositivos;Micrófono
+22;Electrónica;Dispositivos;Drone
+23;Electrónica;Dispositivos;GPS portátil
+24;Electrónica;Dispositivos;TV Box
+25;Electrónica;Dispositivos;Sistema multimedia
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Electrónica;Energía;Cargador USB
+27;Electrónica;Energía;Cargador rápido
+28;Electrónica;Energía;Cable USB-C
+29;Electrónica;Energía;Cable Lightning
+30;Electrónica;Energía;Cable HDMI
+31;Electrónica;Energía;Cable VGA
+32;Electrónica;Energía;Cable audio
+33;Electrónica;Energía;Batería recargable
+34;Electrónica;Energía;Power bank
+35;Electrónica;Energía;Adaptador corriente
+36;Electrónica;Energía;Fuente poder
+37;Electrónica;Energía;Regleta eléctrica
+38;Electrónica;Energía;UPS
+39;Electrónica;Energía;Inversor energía
+40;Electrónica;Energía;Panel solar
+41;Electrónica;Energía;Controlador solar
+42;Electrónica;Energía;Batería externa
+43;Electrónica;Energía;Base carga inalámbrica
+44;Electrónica;Energía;Cargador auto
+45;Electrónica;Energía;Estación carga
+46;Electrónica;Energía;Protector voltaje
+47;Electrónica;Energía;Transformador
+48;Electrónica;Energía;Estabilizador
+49;Electrónica;Energía;Kit energía hogar
+50;Electrónica;Energía;Sistema energía completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Electrónica;Informática;Laptop
+52;Electrónica;Informática;PC escritorio
+53;Electrónica;Informática;Teclado
+54;Electrónica;Informática;Mouse
+55;Electrónica;Informática;Mouse gamer
+56;Electrónica;Informática;Teclado mecánico
+57;Electrónica;Informática;Disco duro externo
+58;Electrónica;Informática;SSD
+59;Electrónica;Informática;Memoria RAM
+60;Electrónica;Informática;Placa madre
+61;Electrónica;Informática;Procesador CPU
+62;Electrónica;Informática;Tarjeta gráfica
+63;Electrónica;Informática;Cooler PC
+64;Electrónica;Informática;Gabinete PC
+65;Electrónica;Informática;Fuente poder PC
+66;Electrónica;Informática;Monitor gamer
+67;Electrónica;Informática;Soporte monitor
+68;Electrónica;Informática;Webcam
+69;Electrónica;Informática;Impresora
+70;Electrónica;Informática;Escáner
+71;Electrónica;Informática;Router gamer
+72;Electrónica;Informática;Switch red
+73;Electrónica;Informática;Hub USB
+74;Electrónica;Informática;Kit PC completo
+75;Electrónica;Informática;Sistema PC armado
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Electrónica;Audio/Video;Audífonos
+77;Electrónica;Audio/Video;Audífonos inalámbricos
+78;Electrónica;Audio/Video;Audífonos gamer
+79;Electrónica;Audio/Video;Parlante portátil
+80;Electrónica;Audio/Video;Home theater
+81;Electrónica;Audio/Video;Barra sonido
+82;Electrónica;Audio/Video;Amplificador audio
+83;Electrónica;Audio/Video;Mezclador sonido
+84;Electrónica;Audio/Video;Micrófono profesional
+85;Electrónica;Audio/Video;Grabadora audio
+86;Electrónica;Audio/Video;Consola DJ
+87;Electrónica;Audio/Video;Cámara video
+88;Electrónica;Audio/Video;Proyector portátil
+89;Electrónica;Audio/Video;TV streaming
+90;Electrónica;Audio/Video;Kit sonido hogar
+91;Electrónica;Audio/Video;Sistema karaoke
+92;Electrónica;Audio/Video;Subwoofer
+93;Electrónica;Audio/Video;Control remoto
+94;Electrónica;Audio/Video;Antena TV
+95;Electrónica;Audio/Video;Capturadora video
+96;Electrónica;Audio/Video;Switch HDMI
+97;Electrónica;Audio/Video;Cable audio digital
+98;Electrónica;Audio/Video;Kit cine hogar
+99;Electrónica;Audio/Video;Sistema streaming
+100;Electrónica;Audio/Video;Sistema multimedia completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Electrónica;Accesorios;Fundas celular
+102;Electrónica;Accesorios;Protectores pantalla
+103;Electrónica;Accesorios;Soporte celular
+104;Electrónica;Accesorios;Tripode cámara
+105;Electrónica;Accesorios;Lentes cámara
+106;Electrónica;Accesorios;Estuche gadgets
+107;Electrónica;Accesorios;Organizadores cables
+108;Electrónica;Accesorios;Clips cables
+109;Electrónica;Accesorios;Base laptop
+110;Electrónica;Accesorios;Cooler laptop
+111;Electrónica;Accesorios;Kit limpieza electrónica
+112;Electrónica;Accesorios;Aire comprimido
+113;Electrónica;Accesorios;Paño microfibra
+114;Electrónica;Accesorios;Adaptadores múltiples
+115;Electrónica;Accesorios;Docking station
+116;Electrónica;Accesorios;Hub expansión
+117;Electrónica;Accesorios;Tarjetas memoria
+118;Electrónica;Accesorios;Lector tarjetas
+119;Electrónica;Accesorios;Kit accesorios tech
+120;Electrónica;Accesorios;Sistema accesorios completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Oficina;Mobiliario;Escritorio
+2;Oficina;Mobiliario;Silla oficina
+3;Oficina;Mobiliario;Silla ergonómica
+4;Oficina;Mobiliario;Silla visitante
+5;Oficina;Mobiliario;Mesa reunión
+6;Oficina;Mobiliario;Archivador metálico
+7;Oficina;Mobiliario;Estante documentos
+8;Oficina;Mobiliario;Librero oficina
+9;Oficina;Mobiliario;Cajonera escritorio
+10;Oficina;Mobiliario;Repisa oficina
+11;Oficina;Mobiliario;Mesa auxiliar
+12;Oficina;Mobiliario;Panel divisorio
+13;Oficina;Mobiliario;Escritorio ejecutivo
+14;Oficina;Mobiliario;Mesa computadora
+15;Oficina;Mobiliario;Soporte CPU
+16;Oficina;Mobiliario;Porta documentos
+17;Oficina;Mobiliario;Organizadores escritorio
+18;Oficina;Mobiliario;Pizarra blanca
+19;Oficina;Mobiliario;Pizarra acrílica
+20;Oficina;Mobiliario;Tablero corcho
+21;Oficina;Mobiliario;Atril documentos
+22;Oficina;Mobiliario;Mesa plegable oficina
+23;Oficina;Mobiliario;Archivador plástico
+24;Oficina;Mobiliario;Soporte laptop
+25;Oficina;Mobiliario;Kit oficina básico
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Oficina;Útiles;Lápiz grafito
+52;Oficina;Útiles;Lápiz tinta
+53;Oficina;Útiles;Lapicero
+54;Oficina;Útiles;Marcador permanente
+55;Oficina;Útiles;Marcador pizarra
+56;Oficina;Útiles;Resaltador
+57;Oficina;Útiles;Regla
+58;Oficina;Útiles;Escuadra
+59;Oficina;Útiles;Compás
+60;Oficina;Útiles;Goma borrar
+61;Oficina;Útiles;Sacapuntas
+62;Oficina;Útiles;Tijeras oficina
+63;Oficina;Útiles;Pegamento
+64;Oficina;Útiles;Cinta adhesiva
+65;Oficina;Útiles;Engrapadora
+66;Oficina;Útiles;Grapas
+67;Oficina;Útiles;Perforadora papel
+68;Oficina;Útiles;Clips
+69;Oficina;Útiles;Chinches
+70;Oficina;Útiles;Calculadora
+71;Oficina;Útiles;Corrector
+72;Oficina;Útiles;Portaminas
+73;Oficina;Útiles;Minas lápiz
+74;Oficina;Útiles;Kit escritorio
+75;Oficina;Útiles;Set oficina completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Oficina;Tecnología;Computador escritorio
+77;Oficina;Tecnología;Laptop
+78;Oficina;Tecnología;Impresora
+79;Oficina;Tecnología;Escáner
+80;Oficina;Tecnología;Multifuncional
+81;Oficina;Tecnología;Router WiFi
+82;Oficina;Tecnología;Switch red
+83;Oficina;Tecnología;UPS
+84;Oficina;Tecnología;Proyector
+85;Oficina;Tecnología;Pantalla proyección
+86;Oficina;Tecnología;Webcam
+87;Oficina;Tecnología;Micrófono
+88;Oficina;Tecnología;Audífonos oficina
+89;Oficina;Tecnología;Teléfono fijo
+90;Oficina;Tecnología;Teléfono IP
+91;Oficina;Tecnología;Docking station
+92;Oficina;Tecnología;Hub USB
+93;Oficina;Tecnología;Monitor doble
+94;Oficina;Tecnología;Teclado oficina
+95;Oficina;Tecnología;Mouse oficina
+96;Oficina;Tecnología;Disco externo
+97;Oficina;Tecnología;SSD externo
+98;Oficina;Tecnología;Sistema videollamada
+99;Oficina;Tecnología;Kit oficina digital
+100;Oficina;Tecnología;Sistema oficina completo
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Oficina;Archivo;Archivador documentos
+102;Oficina;Archivo;Caja archivo
+103;Oficina;Archivo;Carpeta colgante
+104;Oficina;Archivo;Clasificador documentos
+105;Oficina;Archivo;Organizadores archivos
+106;Oficina;Archivo;Bandeja documentos
+107;Oficina;Archivo;Fichero
+108;Oficina;Archivo;Etiquetadora
+109;Oficina;Archivo;Etiquetas archivo
+110;Oficina;Archivo;Contenedor documentos
+111;Oficina;Archivo;Sistema archivo metálico
+112;Oficina;Archivo;Caja seguridad documentos
+113;Oficina;Archivo;Archivador digital
+114;Oficina;Archivo;Scanner documentos
+115;Oficina;Archivo;Destructora papel
+116;Oficina;Archivo;Perforadora industrial
+117;Oficina;Archivo;Engrapadora industrial
+118;Oficina;Archivo;Kit archivo completo
+119;Oficina;Archivo;Sistema organización oficina
+120;Oficina;Archivo;Centro archivo completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Mascotas;Alimentación;Alimento perro adulto
+2;Mascotas;Alimentación;Alimento perro cachorro
+3;Mascotas;Alimentación;Alimento gato adulto
+4;Mascotas;Alimentación;Alimento gato cachorro
+5;Mascotas;Alimentación;Snack perro
+6;Mascotas;Alimentación;Snack gato
+7;Mascotas;Alimentación;Hueso masticable
+8;Mascotas;Alimentación;Comida húmeda perro
+9;Mascotas;Alimentación;Comida húmeda gato
+10;Mascotas;Alimentación;Leche para cachorros
+11;Mascotas;Alimentación;Vitaminas mascotas
+12;Mascotas;Alimentación;Suplemento nutricional
+13;Mascotas;Alimentación;Premio entrenamiento
+14;Mascotas;Alimentación;Alimento peces
+15;Mascotas;Alimentación;Alimento aves
+16;Mascotas;Alimentación;Alimento roedores
+17;Mascotas;Alimentación;Bloque minerales
+18;Mascotas;Alimentación;Bebedero automático
+19;Mascotas;Alimentación;Comedero perro
+20;Mascotas;Alimentación;Comedero gato
+21;Mascotas;Alimentación;Dispensador comida
+22;Mascotas;Alimentación;Fuente agua mascotas
+23;Mascotas;Alimentación;Kit alimentación mascotas
+24;Mascotas;Alimentación;Bowl doble
+25;Mascotas;Alimentación;Sistema alimentación automático
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Mascotas;Hábitat;Cama perro
+27;Mascotas;Hábitat;Cama gato
+28;Mascotas;Hábitat;Casa perro
+29;Mascotas;Hábitat;Árbol gato
+30;Mascotas;Hábitat;Rascador gato
+31;Mascotas;Hábitat;Jaula pájaros
+32;Mascotas;Hábitat;Jaula roedores
+33;Mascotas;Hábitat;Acuario
+34;Mascotas;Hábitat;Filtro acuario
+35;Mascotas;Hábitat;Decoración acuario
+36;Mascotas;Hábitat;Lecho mascotas
+37;Mascotas;Hábitat;Arena gato
+38;Mascotas;Hábitat;Alfombra mascota
+39;Mascotas;Hábitat;Cobija mascota
+40;Mascotas;Hábitat;Transportadora
+41;Mascotas;Hábitat;Mochila transporte
+42;Mascotas;Hábitat;Corral mascotas
+43;Mascotas;Hábitat;Cercado mascotas
+44;Mascotas;Hábitat;Kit hábitat mascotas
+45;Mascotas;Hábitat;Caseta exterior
+46;Mascotas;Hábitat;Base cama mascota
+47;Mascotas;Hábitat;Túnel gato
+48;Mascotas;Hábitat;Puente mascotas
+49;Mascotas;Hábitat;Estación descanso
+50;Mascotas;Hábitat;Sistema hábitat completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Mascotas;Higiene;Shampoo perro
+52;Mascotas;Higiene;Shampoo gato
+53;Mascotas;Higiene;Cepillo mascota
+54;Mascotas;Higiene;Cortauñas mascotas
+55;Mascotas;Higiene;Toallitas húmedas
+56;Mascotas;Higiene;Perfume mascotas
+57;Mascotas;Higiene;Desparasitante
+58;Mascotas;Higiene;Antipulgas
+59;Mascotas;Higiene;Antigarrapatas
+60;Mascotas;Higiene;Kit baño mascota
+61;Mascotas;Higiene;Arena sanitaria
+62;Mascotas;Higiene;Limpiador jaula
+63;Mascotas;Higiene;Desodorante ambiente
+64;Mascotas;Higiene;Spray antipulgas
+65;Mascotas;Higiene;Cepillo dental mascota
+66;Mascotas;Higiene;Pasta dental mascota
+67;Mascotas;Higiene;Kit higiene mascotas
+68;Mascotas;Higiene;Guantes limpieza
+69;Mascotas;Higiene;Desinfectante áreas
+70;Mascotas;Higiene;Arena absorbente
+71;Mascotas;Higiene;Bolsas desechables
+72;Mascotas;Higiene;Tapete entrenamiento
+73;Mascotas;Higiene;Kit limpieza completo
+74;Mascotas;Higiene;Spray limpieza mascotas
+75;Mascotas;Higiene;Sistema higiene mascotas
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Mascotas;Juguetes;Pelota perro
+77;Mascotas;Juguetes;Peluche perro
+78;Mascotas;Juguetes;Hueso juguete
+79;Mascotas;Juguetes;Cuerda tira
+80;Mascotas;Juguetes;Frisbee perro
+81;Mascotas;Juguetes;Ratón juguete gato
+82;Mascotas;Juguetes;Láser gato
+83;Mascotas;Juguetes;Pluma gato
+84;Mascotas;Juguetes;Torre gatos
+85;Mascotas;Juguetes;Túnel gato
+86;Mascotas;Juguetes;Juguete interactivo
+87;Mascotas;Juguetes;Dispensador premios
+88;Mascotas;Juguetes;Pelota inteligente
+89;Mascotas;Juguetes;Puzzle mascotas
+90;Mascotas;Juguetes;Juguete mordedor
+91;Mascotas;Juguetes;Juguete sonido
+92;Mascotas;Juguetes;Kit juguetes perro
+93;Mascotas;Juguetes;Kit juguetes gato
+94;Mascotas;Juguetes;Juguete entrenamiento
+95;Mascotas;Juguetes;Pelota con luz
+96;Mascotas;Juguetes;Rueda ejercicio
+97;Mascotas;Juguetes;Juguete cuerda
+98;Mascotas;Juguetes;Juego inteligencia
+99;Mascotas;Juguetes;Set entretenimiento
+100;Mascotas;Juguetes;Sistema juegos mascotas
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Mascotas;Salud;Collar antipulgas
+102;Mascotas;Salud;Collar identificación
+103;Mascotas;Salud;Arnés perro
+104;Mascotas;Salud;Correa perro
+105;Mascotas;Salud;Bozal
+106;Mascotas;Salud;Chaleco seguridad
+107;Mascotas;Salud;Kit primeros auxilios
+108;Mascotas;Salud;Termómetro mascota
+109;Mascotas;Salud;Suplemento articulaciones
+110;Mascotas;Salud;Medicamento básico
+111;Mascotas;Salud;Vitamina mascotas
+112;Mascotas;Salud;Kit salud mascotas
+113;Mascotas;Salud;Protector solar mascota
+114;Mascotas;Salud;Spray calmante
+115;Mascotas;Salud;Desinfectante heridas
+116;Mascotas;Salud;Vendaje mascotas
+117;Mascotas;Salud;Collar GPS
+118;Mascotas;Salud;Microchip kit
+119;Mascotas;Salud;Sistema salud mascotas
+120;Mascotas;Salud;Kit veterinario básico
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+1;Juguetes;Primera infancia;Sonajero
+2;Juguetes;Primera infancia;Mordedor bebé
+3;Juguetes;Primera infancia;Peluche bebé
+4;Juguetes;Primera infancia;Gimnasio bebé
+5;Juguetes;Primera infancia;Móvil cuna
+6;Juguetes;Primera infancia;Cubos blandos
+7;Juguetes;Primera infancia;Alfombra actividades
+8;Juguetes;Primera infancia;Libro tela
+9;Juguetes;Primera infancia;Juguete musical bebé
+10;Juguetes;Primera infancia;Juguete apilable
+11;Juguetes;Primera infancia;Pelota suave
+12;Juguetes;Primera infancia;Espejo bebé
+13;Juguetes;Primera infancia;Juguete baño bebé
+14;Juguetes;Primera infancia;Caminador bebé
+15;Juguetes;Primera infancia;Andador
+16;Juguetes;Primera infancia;Centro actividades
+17;Juguetes;Primera infancia;Juguete luces bebé
+18;Juguetes;Primera infancia;Sonajero mordedor
+19;Juguetes;Primera infancia;Kit estimulación bebé
+20;Juguetes;Primera infancia;Juguete sensorial
+21;Juguetes;Primera infancia;Bloques suaves
+22;Juguetes;Primera infancia;Peluche musical
+23;Juguetes;Primera infancia;Juguete colgante
+24;Juguetes;Primera infancia;Centro bebé completo
+25;Juguetes;Primera infancia;Set estimulación temprana
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+26;Juguetes;Construcción;Bloques construcción
+27;Juguetes;Construcción;Lego básico
+28;Juguetes;Construcción;Lego técnico
+29;Juguetes;Construcción;Bloques magnéticos
+30;Juguetes;Construcción;Piezas encaje
+31;Juguetes;Construcción;Kit construcción madera
+32;Juguetes;Construcción;Kit construcción plástico
+33;Juguetes;Construcción;Set construcción ciudad
+34;Juguetes;Construcción;Set construcción vehículos
+35;Juguetes;Construcción;Bloques gigantes
+36;Juguetes;Construcción;Puzzle 3D
+37;Juguetes;Construcción;Kit ingeniería infantil
+38;Juguetes;Construcción;Set arquitectura
+39;Juguetes;Construcción;Kit robots armado
+40;Juguetes;Construcción;Set herramientas juguete
+41;Juguetes;Construcción;Bloques educativos
+42;Juguetes;Construcción;Set construcción libre
+43;Juguetes;Construcción;Kit mecánico infantil
+44;Juguetes;Construcción;Kit ensamblaje vehículos
+45;Juguetes;Construcción;Juego imanes
+46;Juguetes;Construcción;Kit STEM básico
+47;Juguetes;Construcción;Kit STEM avanzado
+48;Juguetes;Construcción;Set construcción creativo
+49;Juguetes;Construcción;Kit estructuras
+50;Juguetes;Construcción;Sistema construcción completo
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+51;Juguetes;Educativos;Abecedario educativo
+52;Juguetes;Educativos;Números didácticos
+53;Juguetes;Educativos;Tablet infantil
+54;Juguetes;Educativos;Laptop infantil
+55;Juguetes;Educativos;Juego matemático
+56;Juguetes;Educativos;Juego ciencias
+57;Juguetes;Educativos;Globo terráqueo
+58;Juguetes;Educativos;Pizarra infantil
+59;Juguetes;Educativos;Juego memoria
+60;Juguetes;Educativos;Juego lógica
+61;Juguetes;Educativos;Cartas educativas
+62;Juguetes;Educativos;Rompecabezas
+63;Juguetes;Educativos;Puzzle animales
+64;Juguetes;Educativos;Kit química infantil
+65;Juguetes;Educativos;Kit física infantil
+66;Juguetes;Educativos;Juego lectura
+67;Juguetes;Educativos;Juego escritura
+68;Juguetes;Educativos;Kit aprendizaje idiomas
+69;Juguetes;Educativos;Juego programación
+70;Juguetes;Educativos;Robot educativo
+71;Juguetes;Educativos;Juego creatividad
+72;Juguetes;Educativos;Kit experimentos
+73;Juguetes;Educativos;Juego mapas
+74;Juguetes;Educativos;Set educativo completo
+75;Juguetes;Educativos;Sistema aprendizaje infantil
+;;;
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+76;Juguetes;Vehículos;Auto juguete
+77;Juguetes;Vehículos;Camión juguete
+78;Juguetes;Vehículos;Tren eléctrico
+79;Juguetes;Vehículos;Pista autos
+80;Juguetes;Vehículos;Carro control remoto
+81;Juguetes;Vehículos;Helicóptero juguete
+82;Juguetes;Vehículos;Drone juguete
+83;Juguetes;Vehículos;Moto juguete
+84;Juguetes;Vehículos;Avión juguete
+85;Juguetes;Vehículos;Barco juguete
+86;Juguetes;Vehículos;Circuito carreras
+87;Juguetes;Vehículos;Garage juguetes
+88;Juguetes;Vehículos;Estación tren
+89;Juguetes;Vehículos;Vehículos ciudad
+90;Juguetes;Vehículos;Camión bomberos
+91;Juguetes;Vehículos;Camión policía
+92;Juguetes;Vehículos;Ambulancia juguete
+93;Juguetes;Vehículos;Auto RC
+94;Juguetes;Vehículos;Kit vehículos
+95;Juguetes;Vehículos;Set transporte
+96;Juguetes;Vehículos;Pista eléctrica
+97;Juguetes;Vehículos;Vehículo solar
+98;Juguetes;Vehículos;Robot vehículo
+99;Juguetes;Vehículos;Set movilidad
+100;Juguetes;Vehículos;Sistema transporte juguetes
+;;;
+;;;
+ID;Categoría;Subcategoría;Objeto
+101;Juguetes;Creativos;Plastilina
+102;Juguetes;Creativos;Arcilla modelar
+103;Juguetes;Creativos;Set pintura infantil
+104;Juguetes;Creativos;Crayones
+105;Juguetes;Creativos;Marcadores infantiles
+106;Juguetes;Creativos;Kit dibujo
+107;Juguetes;Creativos;Pizarra dibujo
+108;Juguetes;Creativos;Caballete infantil
+109;Juguetes;Creativos;Kit manualidades
+110;Juguetes;Creativos;Origami kit
+111;Juguetes;Creativos;Kit bisutería
+112;Juguetes;Creativos;Pintura dedos
+113;Juguetes;Creativos;Sellos creativos
+114;Juguetes;Creativos;Pegatinas
+115;Juguetes;Creativos;Scrapbook kit
+116;Juguetes;Creativos;Kit arte completo
+117;Juguetes;Creativos;Set creatividad
+118;Juguetes;Creativos;Kit diseño infantil
+119;Juguetes;Creativos;Estudio arte niño
+120;Juguetes;Creativos;Sistema creativo completo
