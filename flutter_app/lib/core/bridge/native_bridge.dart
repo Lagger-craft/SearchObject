@@ -76,6 +76,9 @@ class NativeBridge {
   Future<Map<String, dynamic>> listarUsuarios() =>
       call('listarUsuarios', {});
 
+  Future<Map<String, dynamic>> actualizarUsuario(String id, String nombre) =>
+      call('actualizarUsuario', {'id': id, 'nombre': nombre});
+
   // ─── Espacios ───
 
   Future<Map<String, dynamic>> crearEspacio(String json) =>

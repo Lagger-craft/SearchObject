@@ -61,6 +61,10 @@ class _EspaciosScreenState extends State<EspaciosScreen> {
     ctrl.dispose();
     if (nuevo == null || nuevo.isEmpty || nuevo == _userName) return;
 
+    try {
+      await _bridge.actualizarUsuario(_userId, nuevo);
+    } catch (_) {}
+
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('userName', nuevo);
     if (!mounted) return;

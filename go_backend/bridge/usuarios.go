@@ -5,6 +5,7 @@ import (
 
 	"github.com/google/uuid"
 
+	apperrors "searchobject/errors"
 	"searchobject/models"
 )
 
@@ -32,6 +33,36 @@ func (app *App) CrearUsuario(nombre, email string) (string, error) {
 	}
 
 	if err := app.db.CrearUsuario(u); err != nil {
+		return "", err
+	}
+
+	data, _ := json.Marshal(usuarioDTO{ID: u.ID, Nombre: u.Nombre, Email: u.Email})
+	return string(data), nil
+}
+
+func (app *App) ActualizarUsuario(jsonReq string) (string, error) {
+	var req struct {
+		ID     string `json:"id"`
+		Nombre string `json:"nombre"`
+		Email  string `json:"email"`
+	}
+	if err := json.Unmarshal([]byte(jsonReq), &req); err != nil {
+		return "", apperrors.Wrap(err, apperrors.ErrValidation, "JSON inválido", "bridge.ActualizarUsuario")
+	}
+
+	u, err := app.db.ObtenerUsuario(req.ID)
+	if err != nil {
+		return "", err
+	}
+
+	if req.Nombre != "" {
+		u.Nombre = req.Nombre
+	}
+	if req.Email != "" {
+		u.Email = req.Email
+	}
+
+	if err := app.db.ActualizarUsuario(u); err != nil {
 		return "", err
 	}
 

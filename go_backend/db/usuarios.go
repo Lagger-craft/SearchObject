@@ -54,6 +54,16 @@ func (db *DB) ObtenerUsuarioPorEmail(email string) (*models.Usuario, error) {
 	return &u, nil
 }
 
+func (db *DB) ActualizarUsuario(u *models.Usuario) error {
+	u.UpdatedAt = models.Now()
+	_, err := db.Exec(`UPDATE usuarios SET nombre=?, email=?, avatar=?, updated_at=? WHERE id=?`,
+		u.Nombre, nullStr(u.Email), nullStr(u.Avatar), u.UpdatedAt, u.ID)
+	if err != nil {
+		return apperrors.Wrap(err, apperrors.ErrDatabase, "no se pudo actualizar el usuario", "db.ActualizarUsuario")
+	}
+	return nil
+}
+
 func (db *DB) ListarUsuarios() ([]models.Usuario, error) {
 	rows, err := db.Query(`SELECT id,nombre,email,avatar,created_at,updated_at FROM usuarios ORDER BY nombre`)
 	if err != nil {

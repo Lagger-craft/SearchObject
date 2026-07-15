@@ -1,6 +1,6 @@
 # Binaries
-server
-testcli
+/server
+/testcli
 
 # Java/Android artifacts
 *.jar
